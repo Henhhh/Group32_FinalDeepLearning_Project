@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "epochs": 2,
+  "learning_rate": 1e-05,
+  "batch_size": 1,
+  "accumulation": 4,
+  "max_length": 128,
+  "weight_decay": 0.01,
+  "encoder_frozen": true,
+  "mixed_precision": "fp16",
+  "train_used": 167,
+  "validation_used": 43,
+  "initial_model": "/content/local_models/DonutDocVQA"
+}

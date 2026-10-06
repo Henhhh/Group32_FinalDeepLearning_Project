@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Document VQA</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f3f6fa;color:#183047;font:16px system-ui,sans-serif}
+main{max-width:1040px;margin:48px auto;padding:0 24px}h1{font-size:36px;margin-bottom:8px}.muted{color:#607487}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:28px}.card{background:white;border:1px solid #dce4ed;border-radius:16px;padding:24px}
+label{display:block;margin:18px 0 8px;font-weight:600}input,textarea,select,button{font:inherit;width:100%;padding:12px;border:1px solid #c7d3df;border-radius:8px}
+textarea{min-height:100px}button{margin-top:20px;background:#166b60;color:white;border:0;cursor:pointer}button:disabled{opacity:.6;cursor:wait}
+#preview{max-width:100%;max-height:520px;display:none;object-fit:contain;margin:auto}#answer{font-size:24px;white-space:pre-wrap;overflow-wrap:anywhere}
+#error{color:#a52626}pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:13px}.result{margin-top:24px}@media(max-width:700px){.grid{grid-template-columns:1fr}main{margin-top:24px}}
+</style></head><body><main>
+<p class="muted">RECEIPTS & DOCUMENTS</p><h1>Document question answering</h1>
+<p class="muted">Upload a clear image and ask a question in English.</p>
+<div class="grid"><section class="card"><form id="form">
+<label for="image">Document or receipt image</label><input id="image" name="image" type="file" accept="image/*" required>
+<label for="method">Method</label><select id="method" name="method"><option value="donut">Donut</option><option value="ocr">OCR + RoBERTa QA</option></select>
+<label for="question">Question</label><textarea id="question" name="question" placeholder="What is the total amount on the receipt?" required></textarea>
+<button id="submit">Get answer</button></form>
+<section class="result" aria-live="polite"><p id="status" class="muted"></p><p id="error"></p><p id="answer"></p><p id="timing" class="muted"></p>
+<details id="ocr" hidden><summary>View OCR text</summary><pre id="ocr-text"></pre></details></section></section>
+<section class="card"><p id="placeholder" class="muted">The selected image will appear here.</p><img id="preview" alt="Selected document image"></section></div>
+<p class="muted">Answers may be incorrect. Check them against the original image.</p></main>
+<script>
+const $=id=>document.getElementById(id);let previewUrl;
+$('image').addEventListener('change',()=>{if(previewUrl)URL.revokeObjectURL(previewUrl);const f=$('image').files[0];if(!f)return;previewUrl=URL.createObjectURL(f);$('preview').src=previewUrl;$('preview').style.display='block';$('placeholder').hidden=true;});
+$('form').addEventListener('submit',async e=>{e.preventDefault();$('submit').disabled=true;$('error').textContent='';$('answer').textContent='';$('timing').textContent='';$('ocr').hidden=true;$('status').textContent='Processing... The first request loads the model and may take longer.';
+try{const response=await fetch('/api/answer',{method:'POST',body:new FormData($('form'))});const data=await response.json();if(!response.ok)throw Error(data.error||'Processing error');$('answer').textContent=data.answer||'No answer found.';$('timing').textContent=`Processing time: ${data.seconds.toFixed(2)} seconds`;
+if(data.ocr_text!==undefined){$('ocr').hidden=false;$('ocr-text').textContent=data.ocr_text;}}catch(err){$('error').textContent=err.message;}finally{$('status').textContent='';$('submit').disabled=false;}});
+</script></body></html>

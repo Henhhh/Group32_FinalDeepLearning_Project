@@ -1,0 +1,682 @@
+[
+  {
+    "question_id": "cord_test_000_total_price",
+    "document_id": "cord_test_000",
+    "image_path": "images/receipt_000.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "60.000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "60.000",
+    "seconds": 1.4825720769999862,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_000_subtotal_price",
+    "document_id": "cord_test_000",
+    "image_path": "images/receipt_000.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "60.000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "60.000",
+    "seconds": 1.4628684819999762,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_000_tax_price",
+    "document_id": "cord_test_000",
+    "image_path": "images/receipt_000.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "5.455"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "5.455",
+    "seconds": 1.4834714450003048,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_001_total_price",
+    "document_id": "cord_test_001",
+    "image_path": "images/receipt_001.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "91000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "91000",
+    "seconds": 1.3863499590001993,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_002_total_price",
+    "document_id": "cord_test_002",
+    "image_path": "images/receipt_002.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "28,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "28.000",
+    "seconds": 1.4891335860002073,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.8333333333333334
+  },
+  {
+    "question_id": "cord_test_002_subtotal_price",
+    "document_id": "cord_test_002",
+    "image_path": "images/receipt_002.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "28,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "28,000",
+    "seconds": 1.5893227560000014,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_003_total_price",
+    "document_id": "cord_test_003",
+    "image_path": "images/receipt_003.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "11,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "11,000",
+    "seconds": 1.6739020269997127,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_003_subtotal_price",
+    "document_id": "cord_test_003",
+    "image_path": "images/receipt_003.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "11,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "11,000",
+    "seconds": 1.6651064879997648,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_004_total_price",
+    "document_id": "cord_test_004",
+    "image_path": "images/receipt_004.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "174,600"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "194,000",
+    "seconds": 1.528244045000065,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.7142857142857143
+  },
+  {
+    "question_id": "cord_test_004_subtotal_price",
+    "document_id": "cord_test_004",
+    "image_path": "images/receipt_004.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "194,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "194,000",
+    "seconds": 1.499183819999871,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_005_total_price",
+    "document_id": "cord_test_005",
+    "image_path": "images/receipt_005.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "31.000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "31.000",
+    "seconds": 1.6230156820001866,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_005_subtotal_price",
+    "document_id": "cord_test_005",
+    "image_path": "images/receipt_005.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "28.182"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "28.182",
+    "seconds": 1.64332298599993,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_005_tax_price",
+    "document_id": "cord_test_005",
+    "image_path": "images/receipt_005.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "2.818"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "2.818",
+    "seconds": 1.6445880329997635,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_006_total_price",
+    "document_id": "cord_test_006",
+    "image_path": "images/receipt_006.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "46,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "46,000",
+    "seconds": 1.5303158060000897,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_007_total_price",
+    "document_id": "cord_test_007",
+    "image_path": "images/receipt_007.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "111,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "111,000",
+    "seconds": 1.6352081649997672,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_007_subtotal_price",
+    "document_id": "cord_test_007",
+    "image_path": "images/receipt_007.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "100,909"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "100,909",
+    "seconds": 1.6796258899998975,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_007_tax_price",
+    "document_id": "cord_test_007",
+    "image_path": "images/receipt_007.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "10,091"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "10",
+    "seconds": 1.5116760109999632,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_008_total_price",
+    "document_id": "cord_test_008",
+    "image_path": "images/receipt_008.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "50,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "50,000",
+    "seconds": 1.545757538000089,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_008_subtotal_price",
+    "document_id": "cord_test_008",
+    "image_path": "images/receipt_008.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "45,455"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "45,455",
+    "seconds": 1.5413305810002385,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_008_tax_price",
+    "document_id": "cord_test_008",
+    "image_path": "images/receipt_008.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "4,545"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "0",
+    "seconds": 1.5285652110001138,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_009_subtotal_price",
+    "document_id": "cord_test_009",
+    "image_path": "images/receipt_009.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "36000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "36000",
+    "seconds": 1.5276811570001883,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_010_total_price",
+    "document_id": "cord_test_010",
+    "image_path": "images/receipt_010.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "17,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "17,000",
+    "seconds": 1.5403625819999434,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_010_subtotal_price",
+    "document_id": "cord_test_010",
+    "image_path": "images/receipt_010.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "17,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "17,000",
+    "seconds": 1.6950234219998492,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_011_total_price",
+    "document_id": "cord_test_011",
+    "image_path": "images/receipt_011.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "230,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "230,000",
+    "seconds": 1.7091179170001851,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_012_total_price",
+    "document_id": "cord_test_012",
+    "image_path": "images/receipt_012.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "120,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "120,000",
+    "seconds": 1.5556843129998015,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_013_total_price",
+    "document_id": "cord_test_013",
+    "image_path": "images/receipt_013.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "51.300"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "46.646",
+    "seconds": 1.6024579190002441,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_013_tax_price",
+    "document_id": "cord_test_013",
+    "image_path": "images/receipt_013.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "4.664"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "10.00",
+    "seconds": 1.5660918099997616,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_014_total_price",
+    "document_id": "cord_test_014",
+    "image_path": "images/receipt_014.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "281,435"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "281,435",
+    "seconds": 1.6830223389997627,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_014_subtotal_price",
+    "document_id": "cord_test_014",
+    "image_path": "images/receipt_014.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "238,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "238,000",
+    "seconds": 1.6462198049998733,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_014_tax_price",
+    "document_id": "cord_test_014",
+    "image_path": "images/receipt_014.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "25,585"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "25,585",
+    "seconds": 1.67711562400018,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_015_total_price",
+    "document_id": "cord_test_015",
+    "image_path": "images/receipt_015.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "63.000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "63.00",
+    "seconds": 1.7181641280003532,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.8333333333333334
+  },
+  {
+    "question_id": "cord_test_016_total_price",
+    "document_id": "cord_test_016",
+    "image_path": "images/receipt_016.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "70,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "63,636",
+    "seconds": 1.7271153219999178,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_016_subtotal_price",
+    "document_id": "cord_test_016",
+    "image_path": "images/receipt_016.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "63,636"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "63,636",
+    "seconds": 1.5775080519997573,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_016_tax_price",
+    "document_id": "cord_test_016",
+    "image_path": "images/receipt_016.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "6,364"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "0",
+    "seconds": 1.541590823000206,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_017_total_price",
+    "document_id": "cord_test_017",
+    "image_path": "images/receipt_017.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "Rp. 91,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "91,000",
+    "seconds": 1.4518440980000378,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.6
+  },
+  {
+    "question_id": "cord_test_017_subtotal_price",
+    "document_id": "cord_test_017",
+    "image_path": "images/receipt_017.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "91,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "91,000",
+    "seconds": 1.445563692000178,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_018_total_price",
+    "document_id": "cord_test_018",
+    "image_path": "images/receipt_018.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "156000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "156000",
+    "seconds": 1.5594523720001234,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_019_total_price",
+    "document_id": "cord_test_019",
+    "image_path": "images/receipt_019.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "176000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "$100",
+    "seconds": 1.540797517000101,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_019_subtotal_price",
+    "document_id": "cord_test_019",
+    "image_path": "images/receipt_019.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "160000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "$0",
+    "seconds": 1.5327395640001669,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_019_tax_price",
+    "document_id": "cord_test_019",
+    "image_path": "images/receipt_019.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "16000"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "prediction": "0",
+    "seconds": 1.6895357719999993,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  }
+]

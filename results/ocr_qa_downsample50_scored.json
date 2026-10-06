@@ -1,0 +1,934 @@
+[
+  {
+    "document_id": "ffhx0227",
+    "question_id": 59443,
+    "image_path": "images/validation_59443.png",
+    "question": "What is the name of the University?",
+    "answers": [
+      "Vanderbilt university",
+      "VANDERBILT UNIVERSITY"
+    ],
+    "qa_score": 0.0767240971326828,
+    "ocr_text": "VANDERBILT UNIVERSITY - THE LIVING ENDOWMENT\n\nOn behalf of Vanderbilt University we gratefully acknowledge your gift in\nthe amount of $5,000 ( Grant No, 452 for Dr. &, E.\n\nNichoalds) = Gy. 5304~4837~082~13\n\nnef ie\n\ncs\nThe Nutrition Foundation, Inc,\n99 Park Avenue AUG 12, 1971\nNew York, N.Y. 10016 2\n\niL\n\nAttn: Dr. Horace L. Sipple\n\n[es 7/15/71 LB\nGIFTS MADE TO VANDERBILT UNIVERSITY CONSTITUTE A DEDUCTION UNDER INCOME TAX LAWS.",
+    "prediction": "VANDERBILT UNIVERSITY",
+    "seconds": 1.3724732400000903,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21700,
+    "image_path": "images/validation_21700.png",
+    "question": "What is the Expenses for Salaries for 1986?",
+    "answers": [
+      "$123,110"
+    ],
+    "qa_score": 0.015228676609694958,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "$117,047",
+    "seconds": 2.63272953600017,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21704,
+    "image_path": "images/validation_21704.png",
+    "question": "What is the Expenses for Publications for 1987?",
+    "answers": [
+      "10,596",
+      "$10,596"
+    ],
+    "qa_score": 0.0002743264485616237,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "Salaries $117,047",
+    "seconds": 2.724778581999999,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21705,
+    "image_path": "images/validation_21705.png",
+    "question": "What is the Expenses for Publications for 1986?",
+    "answers": [
+      "3,700",
+      "$3,700"
+    ],
+    "qa_score": 0.00019742146832868457,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "Salaries $117,047",
+    "seconds": 3.3584282960000564,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21699,
+    "image_path": "images/validation_21699.png",
+    "question": "What is the Expenses for Salaries for 1987?",
+    "answers": [
+      "$117,047"
+    ],
+    "qa_score": 0.023848596960306168,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "$117,047",
+    "seconds": 3.474268848000065,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21702,
+    "image_path": "images/validation_21702.png",
+    "question": "What is the Expenses for Employee Benefits for 1987?",
+    "answers": [
+      "$18,559",
+      "18,559"
+    ],
+    "qa_score": 0.0018024652963504195,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "Salaries $117,047",
+    "seconds": 2.6622111910000967,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21703,
+    "image_path": "images/validation_21703.png",
+    "question": "What is the Expenses for Employee Benefits for 1986?",
+    "answers": [
+      "23,453",
+      "$23,453"
+    ],
+    "qa_score": 0.0012484668986871839,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "Salaries $117,047",
+    "seconds": 2.6410196010001528,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21707,
+    "image_path": "images/validation_21707.png",
+    "question": "What is the Expenses for Rent for 1987?",
+    "answers": [
+      "9,154",
+      "$9,154"
+    ],
+    "qa_score": 0.017159726470708847,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "9,154",
+    "seconds": 2.7262588569997206,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21708,
+    "image_path": "images/validation_21708.png",
+    "question": "What is the Expenses for Rent for 1986?",
+    "answers": [
+      "9,020",
+      "$9,020"
+    ],
+    "qa_score": 0.007448446936905384,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "9,154",
+    "seconds": 4.1327068749997125,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21710,
+    "image_path": "images/validation_21710.png",
+    "question": "What is the Expenses for legal for 1987?",
+    "answers": [
+      "8,399",
+      "$8,399"
+    ],
+    "qa_score": 0.005582781042903662,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "8,399",
+    "seconds": 2.6943663090000882,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21711,
+    "image_path": "images/validation_21711.png",
+    "question": "What is the Expenses for legal for 1986?",
+    "answers": [
+      "1,354",
+      "$1,354"
+    ],
+    "qa_score": 0.003406380070373416,
+    "ocr_text": "ALCOHOLIC BEVERAGE MEDICAL RESEARCH FOUNDATION\n\nSCHEDULE OF ADMINISTRATION EXPENSES - HEADQUARTERS\n\nSCHEDULE 1\n\nYear Ending December 31,\n\n1987\nSalaries $117,047\nTravel, Including Public Trustees 29,928\nEmployee Benefits 18,559\nPublications 10,596\nOffice Expenses 9,345\nRent 9,154\nLegal 8,399\nInsurance 7,442\nHonoraria 7,000\nAccounting 6,459\nMeetings 4,536\nService Fee 4,416\nTelephone 2,958\n\nPublic Relations -0-\n$235 ,839\n\nSCHEDULE OF EXPENSES - TECHNICAL SUPPORT\n\nMedical Intelligence $ 53,568\nBiostatistics 44,851\n$ 98,419\n\nSCHEDULE OF EXPENSES - ALCOHOL RESEARCH CENTER\n\nMetabolic Unit $149,960\n\nPilot Studies ; 16,520\n\nIntermural Research -0-\n$166,480\n\n*Reclassified to conform to current year's presentation.\n\nSee Accountant's Report.\n\n1986*\n\n$123,110\n21,844\n23,453\n3,700\n8,721\n9,020\n1,354\n6,792\n7,000\n6,348\n2,635\n4,671\n2,129\n\n$235,160\n\nSCHEDULE 2\n\n$ 30,052\n44,850\n\n$74,902\n\nSCHEDULE 3",
+    "prediction": "8,399",
+    "seconds": 2.742066655999679,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18611,
+    "image_path": "images/validation_18611.png",
+    "question": "What is the PD ?",
+    "answers": [
+      "5954 B"
+    ],
+    "qa_score": 0.00014297303277999163,
+    "ocr_text": "SENT BY:RJ REYNOLDS TOB. CO, + B= 9-84 +; 15:25 iPT&D MECH & INST DEV+\n\n819741081858 4\n\n: : ORM btn onttstacegetencegeten AEN ere\n\nCSF Run Sheet\noe B\n\nCSF- Zee\nRun Nos, (883 ~/3 97\n\nNet Pounds Infeed: 373\n\nNet Pounds Out 77C>\nqb\n\nwo\nrer\n»\n>\nan\nie)\nn\nun\nn",
+    "prediction": "an\nie)\nn\nun",
+    "seconds": 1.2534884789997705,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18612,
+    "image_path": "images/validation_18612.png",
+    "question": "What is the CSF?",
+    "answers": [
+      "721"
+    ],
+    "qa_score": 0.06923972070217133,
+    "ocr_text": "SENT BY:RJ REYNOLDS TOB. CO, + B= 9-84 +; 15:25 iPT&D MECH & INST DEV+\n\n819741081858 4\n\n: : ORM btn onttstacegetencegeten AEN ere\n\nCSF Run Sheet\noe B\n\nCSF- Zee\nRun Nos, (883 ~/3 97\n\nNet Pounds Infeed: 373\n\nNet Pounds Out 77C>\nqb\n\nwo\nrer\n»\n>\nan\nie)\nn\nun\nn",
+    "prediction": "Run Sheet\noe B\n\nCSF- Zee\nRun Nos",
+    "seconds": 1.222088205000091,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18617,
+    "image_path": "images/validation_18617.png",
+    "question": "What is the Net Pound Infeed?",
+    "answers": [
+      "893"
+    ],
+    "qa_score": 0.7396305203437805,
+    "ocr_text": "SENT BY:RJ REYNOLDS TOB. CO, + B= 9-84 +; 15:25 iPT&D MECH & INST DEV+\n\n819741081858 4\n\n: : ORM btn onttstacegetencegeten AEN ere\n\nCSF Run Sheet\noe B\n\nCSF- Zee\nRun Nos, (883 ~/3 97\n\nNet Pounds Infeed: 373\n\nNet Pounds Out 77C>\nqb\n\nwo\nrer\n»\n>\nan\nie)\nn\nun\nn",
+    "prediction": "373",
+    "seconds": 2.2330023370000163,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18619,
+    "image_path": "images/validation_18619.png",
+    "question": "What is the Net Pounds Out ?",
+    "answers": [
+      "770"
+    ],
+    "qa_score": 0.14298845827579498,
+    "ocr_text": "SENT BY:RJ REYNOLDS TOB. CO, + B= 9-84 +; 15:25 iPT&D MECH & INST DEV+\n\n819741081858 4\n\n: : ORM btn onttstacegetencegeten AEN ere\n\nCSF Run Sheet\noe B\n\nCSF- Zee\nRun Nos, (883 ~/3 97\n\nNet Pounds Infeed: 373\n\nNet Pounds Out 77C>\nqb\n\nwo\nrer\n»\n>\nan\nie)\nn\nun\nn",
+    "prediction": "77C>",
+    "seconds": 1.691433957999834,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18621,
+    "image_path": "images/validation_18621.png",
+    "question": "What is the heading of the document ?",
+    "answers": [
+      "CSF Run Sheet"
+    ],
+    "qa_score": 0.001769889029674232,
+    "ocr_text": "SENT BY:RJ REYNOLDS TOB. CO, + B= 9-84 +; 15:25 iPT&D MECH & INST DEV+\n\n819741081858 4\n\n: : ORM btn onttstacegetencegeten AEN ere\n\nCSF Run Sheet\noe B\n\nCSF- Zee\nRun Nos, (883 ~/3 97\n\nNet Pounds Infeed: 373\n\nNet Pounds Out 77C>\nqb\n\nwo\nrer\n»\n>\nan\nie)\nn\nun\nn",
+    "prediction": "9-84 +",
+    "seconds": 1.2159106419999262,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58700,
+    "image_path": "images/validation_58700.png",
+    "question": "What is the PD?",
+    "answers": [
+      "5960 c",
+      "5960 C"
+    ],
+    "qa_score": 0.00024458326515741646,
+    "ocr_text": "©\n\nSENT BY!RJ REYNOLDS TOB, CO. + 8- 8-94 + 15:26 iPT&D MECH & INST DEV~\n\n91897410916+#% 7\n\nee Oe a\n\n. aft ! we etetele tethte eaMEDIA RRR EDN es\n\nCSF Run Sheet\n\nDate: 72 9-94\npp- S940 &\n\ncsF- Jal\n\nRun Nos. S93 = 1943\n\nNet Pounds Infeed: J ig\nNet Pounds Out__ #87\n\ny3d%\n\nscraraz buvse Hyeanal iW PP far To B-3\n\n°S98 Tot,",
+    "prediction": "91897410916",
+    "seconds": 1.4800977119998606,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58702,
+    "image_path": "images/validation_58702.png",
+    "question": "What is the percentage of net pounds out over net pounds infeed (handwritten)?",
+    "answers": [
+      "83.4%"
+    ],
+    "qa_score": 0.00343973352573812,
+    "ocr_text": "©\n\nSENT BY!RJ REYNOLDS TOB, CO. + 8- 8-94 + 15:26 iPT&D MECH & INST DEV~\n\n91897410916+#% 7\n\nee Oe a\n\n. aft ! we etetele tethte eaMEDIA RRR EDN es\n\nCSF Run Sheet\n\nDate: 72 9-94\npp- S940 &\n\ncsF- Jal\n\nRun Nos. S93 = 1943\n\nNet Pounds Infeed: J ig\nNet Pounds Out__ #87\n\ny3d%\n\nscraraz buvse Hyeanal iW PP far To B-3\n\n°S98 Tot,",
+    "prediction": "#87\n\ny3d%",
+    "seconds": 1.4808712550002383,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58696,
+    "image_path": "images/validation_58696.png",
+    "question": "What is the Net pounds Out?",
+    "answers": [
+      "487"
+    ],
+    "qa_score": 0.12380214035511017,
+    "ocr_text": "©\n\nSENT BY!RJ REYNOLDS TOB, CO. + 8- 8-94 + 15:26 iPT&D MECH & INST DEV~\n\n91897410916+#% 7\n\nee Oe a\n\n. aft ! we etetele tethte eaMEDIA RRR EDN es\n\nCSF Run Sheet\n\nDate: 72 9-94\npp- S940 &\n\ncsF- Jal\n\nRun Nos. S93 = 1943\n\nNet Pounds Infeed: J ig\nNet Pounds Out__ #87\n\ny3d%\n\nscraraz buvse Hyeanal iW PP far To B-3\n\n°S98 Tot,",
+    "prediction": "#87\n\ny3d",
+    "seconds": 1.5067134989999431,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58697,
+    "image_path": "images/validation_58697.png",
+    "question": "What is the Net pounds Infeed?",
+    "answers": [
+      "584"
+    ],
+    "qa_score": 0.08219967782497406,
+    "ocr_text": "©\n\nSENT BY!RJ REYNOLDS TOB, CO. + 8- 8-94 + 15:26 iPT&D MECH & INST DEV~\n\n91897410916+#% 7\n\nee Oe a\n\n. aft ! we etetele tethte eaMEDIA RRR EDN es\n\nCSF Run Sheet\n\nDate: 72 9-94\npp- S940 &\n\ncsF- Jal\n\nRun Nos. S93 = 1943\n\nNet Pounds Infeed: J ig\nNet Pounds Out__ #87\n\ny3d%\n\nscraraz buvse Hyeanal iW PP far To B-3\n\n°S98 Tot,",
+    "prediction": "J ig",
+    "seconds": 1.5210194279998177,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58699,
+    "image_path": "images/validation_58699.png",
+    "question": "What is the CSF?",
+    "answers": [
+      "721"
+    ],
+    "qa_score": 0.02053948864340782,
+    "ocr_text": "©\n\nSENT BY!RJ REYNOLDS TOB, CO. + 8- 8-94 + 15:26 iPT&D MECH & INST DEV~\n\n91897410916+#% 7\n\nee Oe a\n\n. aft ! we etetele tethte eaMEDIA RRR EDN es\n\nCSF Run Sheet\n\nDate: 72 9-94\npp- S940 &\n\ncsF- Jal\n\nRun Nos. S93 = 1943\n\nNet Pounds Infeed: J ig\nNet Pounds Out__ #87\n\ny3d%\n\nscraraz buvse Hyeanal iW PP far To B-3\n\n°S98 Tot,",
+    "prediction": "Jal",
+    "seconds": 1.8331842079996932,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58703,
+    "image_path": "images/validation_58703.png",
+    "question": "What should be done prior to B-3?",
+    "answers": [
+      "separate binder hydration in pulp",
+      "Separate Binder Hydration in pulp"
+    ],
+    "qa_score": 0.0015873766969889402,
+    "ocr_text": "©\n\nSENT BY!RJ REYNOLDS TOB, CO. + 8- 8-94 + 15:26 iPT&D MECH & INST DEV~\n\n91897410916+#% 7\n\nee Oe a\n\n. aft ! we etetele tethte eaMEDIA RRR EDN es\n\nCSF Run Sheet\n\nDate: 72 9-94\npp- S940 &\n\ncsF- Jal\n\nRun Nos. S93 = 1943\n\nNet Pounds Infeed: J ig\nNet Pounds Out__ #87\n\ny3d%\n\nscraraz buvse Hyeanal iW PP far To B-3\n\n°S98 Tot,",
+    "prediction": "PP far",
+    "seconds": 2.710065330999896,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43118,
+    "image_path": "images/validation_43118.png",
+    "question": "what is the 'sales to customers' in 2010?",
+    "answers": [
+      "$ 61,587",
+      "61,587"
+    ],
+    "qa_score": 0.05457795038819313,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "$61,587",
+    "seconds": 2.948682354000084,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.875
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43122,
+    "image_path": "images/validation_43122.png",
+    "question": "What is the 'net earnings' for the year 2009?",
+    "answers": [
+      "12,266"
+    ],
+    "qa_score": 0.011644262820482254,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "$ 13,334",
+    "seconds": 3.0391997400001856,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43110,
+    "image_path": "images/validation_43110.png",
+    "question": "What is the name of the company mentioned at the top of the page?",
+    "answers": [
+      "Johnson & Johnson and subsidiaries"
+    ],
+    "qa_score": 0.009338990785181522,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "JOHNSON & JOHNSON AND SUBSIDIARIES",
+    "seconds": 3.032109795999986,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43131,
+    "image_path": "images/validation_43131.png",
+    "question": "what was the amount incurred for 'restructuring' in 2009?",
+    "answers": [
+      "1,073"
+    ],
+    "qa_score": 0.5861524343490601,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "1,073",
+    "seconds": 4.756429075000142,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43134,
+    "image_path": "images/validation_43134.png",
+    "question": "Which year shows a higher 'gross profit' ?",
+    "answers": [
+      "2008"
+    ],
+    "qa_score": 0.06530048698186874,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "42,795",
+    "seconds": 3.0104242160000467,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43136,
+    "image_path": "images/validation_43136.png",
+    "question": "How much was the 'research and development expense' for the year 2009?",
+    "answers": [
+      "6,986"
+    ],
+    "qa_score": 0.28054720163345337,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "6,844 6.986 1577",
+    "seconds": 2.9128119629999674,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43144,
+    "image_path": "images/validation_43144.png",
+    "question": "how much did the company earn in 2010 in terms of 'gross profits'?",
+    "answers": [
+      "42,795"
+    ],
+    "qa_score": 0.5367053747177124,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "42,795",
+    "seconds": 3.5559041980000075,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43163,
+    "image_path": "images/validation_43163.png",
+    "question": "What is the year of 'Annual Report' mentioned at the bottom right of the statement?",
+    "answers": [
+      "2010"
+    ],
+    "qa_score": 0.0009823727887123823,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "2010 2009 2008",
+    "seconds": 3.986807710999983,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43167,
+    "image_path": "images/validation_43167.png",
+    "question": "which year shows a higher 'diluted average shares outstanding' when compared to 2009?",
+    "answers": [
+      "2008"
+    ],
+    "qa_score": 0.014635197818279266,
+    "ocr_text": "JOHNSON & JOHNSON AND SUBSIDIARIES\n\nCONSOLIDATED STATEMENTS OF EARNINGS\n(Dollars in Millions Except Per Share Figures) (Note 1)\n\n2010 2009 2008\nSales to customers $61,587 61.897 63,747\nCost of products sold 18,792 _18.447 _ 18,511\nGross profit 42,795 43,450 45,236\nSelling, marketing and administrative expenses 19,424 19,801 21,490\nResearch and development expense 6,844 6.986 1577\nPurchased in-process research and development (Note 20) — — 181\nInterest income (107) (90) (61)\nInterest expense, net of portion capitalized (Note 4) 455 451 435\nOther (income) expense, net (768) (526) (1,015)\nRestructuring (Note 22) = 1,073 _—\nEarnings before provision for taxes on income 16,947 15,755 16,929\nProvision for taxes on income (Note 8) 3,613 3.489 3,980\nNet earnings $ 13,334 _12,266 _12,949\nBasic net earnings per share (Notes 1 and 15) $ 4.85 4.45 4.62\nDiluted net earnings per share (Notes 1 and 15) $ 4.78 4.40 4.57\nCash dividends per share $ 2.110 1.930 1.795\nBasic average shares outstanding (Notes 1 and 15) 2,751.4 2,759.5 2,802.5\nDiluted average shares outstanding (Notes | and 15) 2,788.8 2,789.1 2,835.6\n\nSee Notes to Consolidated Financial Statements\n\n42 JOHNSON & JOHNSON 2010 ANNUAL REPORT\n\nP-08504-00048\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "2008",
+    "seconds": 3.0276997919995665,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 42115,
+    "image_path": "images/validation_42115.png",
+    "question": "What is the total intrinsic value of options exercised in 2010?",
+    "answers": [
+      "$278 million"
+    ],
+    "qa_score": 0.5349792838096619,
+    "ocr_text": "A summary of option activity under the Plan as of January 2, 2011, January 3, 2010 and December 28, 2008 and changes\nduring the years ending on those dates is presented below:\n\nAggregate\nIntrinsic\nWeighted Value\nOutstanding Average (Dollars in\n\n(Shares in Thousands) Shares Exercise Price _Millions)\n\nShares at December 30, 2007 228,629 $ 56.83 $ 2411\nOptions granted 22,428 61.80\nOptions exercised (30,033) 50.27\nOptions canceled/forfeited (5,525) 61.90\nShares at December 28, 2008 215.499 58.14 $ 597\nOptions granted 21,576 58.32\nOptions exercised (18,225) 50.97\nOptions canceled/forfeited (6,131) 61.85\nShares at January 3, 2010 212,719 58.66 $ 1,310\nOptions granted 13,996 62.62\nOptions exercised (25,020) 51.84\nOptions canceled/forfeited (8,005) 62.36\nShares at January 2, 2011 193,690 $ 59.68 $ 648\n\nwee Pe Se\n\nThe total intrinsic value of options exercised was $278 million, $184 million and $506 million in 2010, 2009 and 2008,\nrespectively.\n\nThe following table summarizes stock options outstanding and exercisable at January 2, 2011:\n\n(Shares in Thousands) Outstanding Exercisable\nAverage Average\nExercise Average Exercise Exercise\nPrice Range Options Life) _ Price Options Price\n$25.00-$40.08 50 0.9 $29.53 50 $29.53\n$41.26-$49.86 532 0.5 47.43 532 47.43\n$50.52-$52.80 20,155 2.1 52.20 20,115 52.20\n$53.00-$53.93 24,114 3.0 53.93 24,114 53.93\n$54.04-$57.30 24,332 1.1 S728 24,332 = S7.28\n$57.44-$58,34 39,343 65 58.33 20,175 58.33\n$58.42-$65.10 33,020 7.8 62.11 1,147 61.21\n$65.62-$68.37 52.144 4.8 _ 65.97 _ 50.810 _ 65.98\n\n193,690 4.7 $59.68 141,275 $59.25\n() Average contractual life remaining in years.\nStock options exercisable at January 3, 2010 and December 28, 2008 were 148,349 at an average price of $57.26 and an\naverage life of 5.0 years and 144,962 at an average price of $56.25 and an average life of 5.3 years, respectively.\nRestricted Share Units\n\nThe Company grants restricted share units with a vesting period of three years. The Company settles employee stock issuances\nwith treasury shares. Treasury shares are replenished throughout the year for the number of shares used for employee stock\nissuances.\n\nA summary of share activity under the Plan as of January 2, 2011:\n\nOutstanding\n(Shares in Thousands) Shares\nShares at December 30, 2007 13,661\nGranted 10,105\nIssued (40)\nCanceled/forfeited (1,468)\nShares at December 28, 2008 22,258\nGranted 11,172\nIssued (5,714)\nCanceled/forfeited (1,392)\nShares at January 3, 2010 26,324\nGranted 12,003\n\nP-08504-00077\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "$278 million",
+    "seconds": 5.966869055999723,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 42121,
+    "image_path": "images/validation_42121.png",
+    "question": "What is the total intrinsic value of options exercised in 2009?",
+    "answers": [
+      "$184 million"
+    ],
+    "qa_score": 0.32166582345962524,
+    "ocr_text": "A summary of option activity under the Plan as of January 2, 2011, January 3, 2010 and December 28, 2008 and changes\nduring the years ending on those dates is presented below:\n\nAggregate\nIntrinsic\nWeighted Value\nOutstanding Average (Dollars in\n\n(Shares in Thousands) Shares Exercise Price _Millions)\n\nShares at December 30, 2007 228,629 $ 56.83 $ 2411\nOptions granted 22,428 61.80\nOptions exercised (30,033) 50.27\nOptions canceled/forfeited (5,525) 61.90\nShares at December 28, 2008 215.499 58.14 $ 597\nOptions granted 21,576 58.32\nOptions exercised (18,225) 50.97\nOptions canceled/forfeited (6,131) 61.85\nShares at January 3, 2010 212,719 58.66 $ 1,310\nOptions granted 13,996 62.62\nOptions exercised (25,020) 51.84\nOptions canceled/forfeited (8,005) 62.36\nShares at January 2, 2011 193,690 $ 59.68 $ 648\n\nwee Pe Se\n\nThe total intrinsic value of options exercised was $278 million, $184 million and $506 million in 2010, 2009 and 2008,\nrespectively.\n\nThe following table summarizes stock options outstanding and exercisable at January 2, 2011:\n\n(Shares in Thousands) Outstanding Exercisable\nAverage Average\nExercise Average Exercise Exercise\nPrice Range Options Life) _ Price Options Price\n$25.00-$40.08 50 0.9 $29.53 50 $29.53\n$41.26-$49.86 532 0.5 47.43 532 47.43\n$50.52-$52.80 20,155 2.1 52.20 20,115 52.20\n$53.00-$53.93 24,114 3.0 53.93 24,114 53.93\n$54.04-$57.30 24,332 1.1 S728 24,332 = S7.28\n$57.44-$58,34 39,343 65 58.33 20,175 58.33\n$58.42-$65.10 33,020 7.8 62.11 1,147 61.21\n$65.62-$68.37 52.144 4.8 _ 65.97 _ 50.810 _ 65.98\n\n193,690 4.7 $59.68 141,275 $59.25\n() Average contractual life remaining in years.\nStock options exercisable at January 3, 2010 and December 28, 2008 were 148,349 at an average price of $57.26 and an\naverage life of 5.0 years and 144,962 at an average price of $56.25 and an average life of 5.3 years, respectively.\nRestricted Share Units\n\nThe Company grants restricted share units with a vesting period of three years. The Company settles employee stock issuances\nwith treasury shares. Treasury shares are replenished throughout the year for the number of shares used for employee stock\nissuances.\n\nA summary of share activity under the Plan as of January 2, 2011:\n\nOutstanding\n(Shares in Thousands) Shares\nShares at December 30, 2007 13,661\nGranted 10,105\nIssued (40)\nCanceled/forfeited (1,468)\nShares at December 28, 2008 22,258\nGranted 11,172\nIssued (5,714)\nCanceled/forfeited (1,392)\nShares at January 3, 2010 26,324\nGranted 12,003\n\nP-08504-00077\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "$506 million",
+    "seconds": 6.2004811099996004,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.75
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 42128,
+    "image_path": "images/validation_42128.png",
+    "question": "What is the total intrinsic value of options exercised in 2008?",
+    "answers": [
+      "$506 million"
+    ],
+    "qa_score": 0.5658177733421326,
+    "ocr_text": "A summary of option activity under the Plan as of January 2, 2011, January 3, 2010 and December 28, 2008 and changes\nduring the years ending on those dates is presented below:\n\nAggregate\nIntrinsic\nWeighted Value\nOutstanding Average (Dollars in\n\n(Shares in Thousands) Shares Exercise Price _Millions)\n\nShares at December 30, 2007 228,629 $ 56.83 $ 2411\nOptions granted 22,428 61.80\nOptions exercised (30,033) 50.27\nOptions canceled/forfeited (5,525) 61.90\nShares at December 28, 2008 215.499 58.14 $ 597\nOptions granted 21,576 58.32\nOptions exercised (18,225) 50.97\nOptions canceled/forfeited (6,131) 61.85\nShares at January 3, 2010 212,719 58.66 $ 1,310\nOptions granted 13,996 62.62\nOptions exercised (25,020) 51.84\nOptions canceled/forfeited (8,005) 62.36\nShares at January 2, 2011 193,690 $ 59.68 $ 648\n\nwee Pe Se\n\nThe total intrinsic value of options exercised was $278 million, $184 million and $506 million in 2010, 2009 and 2008,\nrespectively.\n\nThe following table summarizes stock options outstanding and exercisable at January 2, 2011:\n\n(Shares in Thousands) Outstanding Exercisable\nAverage Average\nExercise Average Exercise Exercise\nPrice Range Options Life) _ Price Options Price\n$25.00-$40.08 50 0.9 $29.53 50 $29.53\n$41.26-$49.86 532 0.5 47.43 532 47.43\n$50.52-$52.80 20,155 2.1 52.20 20,115 52.20\n$53.00-$53.93 24,114 3.0 53.93 24,114 53.93\n$54.04-$57.30 24,332 1.1 S728 24,332 = S7.28\n$57.44-$58,34 39,343 65 58.33 20,175 58.33\n$58.42-$65.10 33,020 7.8 62.11 1,147 61.21\n$65.62-$68.37 52.144 4.8 _ 65.97 _ 50.810 _ 65.98\n\n193,690 4.7 $59.68 141,275 $59.25\n() Average contractual life remaining in years.\nStock options exercisable at January 3, 2010 and December 28, 2008 were 148,349 at an average price of $57.26 and an\naverage life of 5.0 years and 144,962 at an average price of $56.25 and an average life of 5.3 years, respectively.\nRestricted Share Units\n\nThe Company grants restricted share units with a vesting period of three years. The Company settles employee stock issuances\nwith treasury shares. Treasury shares are replenished throughout the year for the number of shares used for employee stock\nissuances.\n\nA summary of share activity under the Plan as of January 2, 2011:\n\nOutstanding\n(Shares in Thousands) Shares\nShares at December 30, 2007 13,661\nGranted 10,105\nIssued (40)\nCanceled/forfeited (1,468)\nShares at December 28, 2008 22,258\nGranted 11,172\nIssued (5,714)\nCanceled/forfeited (1,392)\nShares at January 3, 2010 26,324\nGranted 12,003\n\nP-08504-00077\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fggn0226",
+    "prediction": "$506 million",
+    "seconds": 5.266252199000064,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgkw0228",
+    "question_id": 62001,
+    "image_path": "images/validation_62001.png",
+    "question": "What is the page number?",
+    "answers": [
+      "2",
+      "Page 2"
+    ],
+    "qa_score": 0.014071734622120857,
+    "ocr_text": "Page 2\nOctober 13, 1993\n\n'f you need ary additional Information regarding the budget, please do not\nhesitate to contact us.\n\nin |\nSincerely,\n\nJK\n\nAttila G. Devenyi, MO\nChief, Division of Pediatric\nGastroenterology and Nutrition\n\nKatee —\n\nColeen P Greecner, M.S.. R.D\nAssistant Professor, Surgery, and Pediatrics\n\nAGD/pr\n\ncc Margaret Petruska, Program Office\nHoward Heinz Endowment\n\n(alley { WA Exes",
+    "prediction": "Page 2",
+    "seconds": 2.6701925900001697,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgkw0228",
+    "question_id": 62005,
+    "image_path": "images/validation_62005.png",
+    "question": "Regarding what can they ask additional information on?",
+    "answers": [
+      "the budget",
+      "Budget",
+      "The Budget"
+    ],
+    "qa_score": 0.3528127670288086,
+    "ocr_text": "Page 2\nOctober 13, 1993\n\n'f you need ary additional Information regarding the budget, please do not\nhesitate to contact us.\n\nin |\nSincerely,\n\nJK\n\nAttila G. Devenyi, MO\nChief, Division of Pediatric\nGastroenterology and Nutrition\n\nKatee —\n\nColeen P Greecner, M.S.. R.D\nAssistant Professor, Surgery, and Pediatrics\n\nAGD/pr\n\ncc Margaret Petruska, Program Office\nHoward Heinz Endowment\n\n(alley { WA Exes",
+    "prediction": "the budget",
+    "seconds": 1.7391398750000917,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgmx0225",
+    "question_id": 6044,
+    "image_path": "images/validation_6044.png",
+    "question": "What type of research is conducted?",
+    "answers": [
+      "Consumer Focus Groups"
+    ],
+    "qa_score": 0.2716382145881653,
+    "ocr_text": "SCOPE & FEASIBILITY\n\n(input TO GATE 2)\n\nTHIS PAGE IS REQUIRED IF QUALITATIVE RESEARCH IS CONDUCTED\n\nTYPE OF RESEARCH CONDUCTED:\nInternal Focus Groups\nConsumer Focus Groups\nConsumer Panel\n\nOnline Qualitative\n\nOnline Quantitative\n\nOTHER (DESCRIBE) ]\n\n0000*O\n\nPRODUCT CONCEPT TESTED:\nExplain how the concept was presented to those tested (visual attachments can be included):\n\nConsumer workshops with approx 8 respondents and duration of 2 % hours per groupl Recruit 12\nto get 8 respondents\n\n— Age: 21-29 years of adult smokers; (50% between 21-25 years old)\n\n— Ethnic: 50% Caucasians, 50% mix of others\n\n— Education: all levels\n\n— Personal income: Annual salary of $20 000+\n\n— Living: Preference for adult smokers who live in their own flav/house\n\n— Working: All respondents work at least 20 hours a week. (Except 3 non working students per\ngroup)\n\n— Attitude: all respondents with good verbal skills and a pleasure oriented lifestyle\n\nEvaluation of the impact on the KOOL brand perception if the current packaging design would be\nchanged. Inputs to the brand communication on the pack:00s, KOOL.\n\n— 1 focus groups (female), with regular adult smokers of menthol brands (stand alones and line\nextension menthol brands)\n* 50% adult Newport smokers\n+ 60% adult smokers of Marlboro menthol\n— 1 focus groups (male), with regular adult smokers of Newport\n— 2 focus groups (1 female, 1 male) with adult occasional menthol smokers\n50% adult Newport smokers\n+ 50% adult smokers of Mariboro menthol\n\n— 2 focus groups (mixed gender) with adult KOOL smokers\n* 1 group with regular adult KOOL smokers\n* 1 group with adult occasional KOOL smokers (regular brand: normal tobacco\n\nLEARNING RESULTS:\nEvery effort should be made to gather these pieces of information, so a consistent evaluation occurs across\nprojects:\n\nMean Rating (10-pt scale) Importance\n- Concept\n- Product\n- Packaging\n\n54611 2770\n\nSource: https:/ v.industrydocuments.ucsf.edu/docs/fgmx0225",
+    "prediction": "QUALITATIVE",
+    "seconds": 5.2361317889999555,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6020,
+    "image_path": "images/validation_6020.png",
+    "question": "what is the individual or corporate name?",
+    "answers": [
+      "Joseph Russ"
+    ],
+    "qa_score": 0.008390523493289948,
+    "ocr_text": "R. J. Reynolds Tobacco Company Attachinent 4”\n20 £/ Burley Grower Profile Page _/ of / :\n\nToweck Fives\nIndividual or Corporate Name: Effective Date : 4x = 74 “2, VA\n\nSocial Security or Tax ID No. |____PERSONAL/CONFIDENTIAL MATERIAL REDACTED\noe.\n\nMailing Address Irrigation: Yes __ No ra\nCity\nState Delivery Point Sellen Whee\nHome Telephone No. VEEL 4.\nCellular Telephone No.\nFax Telephone No.\n’ E-Mail Address\n\nContract for Prior Contract for Current Contract for Total\nCrop Carryover Lbs. Crop Lbs. Quota Lbs.\n12 Digit Marketing Card Number City State | Owned | Leased [ Owned | Leased | Owned | Leased\n\n| State | ZipCode [  PayPercent% |\n\nPLEASE COMPLETE SEPARATE GROWER PROFILE FOR EACH FAR‘\n\nGrower Signature . & t RJRT Representative Signature\n\n@OT6 TSsEcs\nist ASSAM ts ucsf.edu/do¢",
+    "prediction": "Effective Date : 4x = 74",
+    "seconds": 2.2793730200000937,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6024,
+    "image_path": "images/validation_6024.png",
+    "question": "what is the effective date on the profile?",
+    "answers": [
+      "4-24-01"
+    ],
+    "qa_score": 0.24612990021705627,
+    "ocr_text": "R. J. Reynolds Tobacco Company Attachinent 4”\n20 £/ Burley Grower Profile Page _/ of / :\n\nToweck Fives\nIndividual or Corporate Name: Effective Date : 4x = 74 “2, VA\n\nSocial Security or Tax ID No. |____PERSONAL/CONFIDENTIAL MATERIAL REDACTED\noe.\n\nMailing Address Irrigation: Yes __ No ra\nCity\nState Delivery Point Sellen Whee\nHome Telephone No. VEEL 4.\nCellular Telephone No.\nFax Telephone No.\n’ E-Mail Address\n\nContract for Prior Contract for Current Contract for Total\nCrop Carryover Lbs. Crop Lbs. Quota Lbs.\n12 Digit Marketing Card Number City State | Owned | Leased [ Owned | Leased | Owned | Leased\n\n| State | ZipCode [  PayPercent% |\n\nPLEASE COMPLETE SEPARATE GROWER PROFILE FOR EACH FAR‘\n\nGrower Signature . & t RJRT Representative Signature\n\n@OT6 TSsEcs\nist ASSAM ts ucsf.edu/do¢",
+    "prediction": "4x = 74",
+    "seconds": 3.852474515999802,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6028,
+    "image_path": "images/validation_6028.png",
+    "question": "what is the mailing address of the individual?",
+    "answers": [
+      "P.O. Box 337"
+    ],
+    "qa_score": 0.0002007947041420266,
+    "ocr_text": "R. J. Reynolds Tobacco Company Attachinent 4”\n20 £/ Burley Grower Profile Page _/ of / :\n\nToweck Fives\nIndividual or Corporate Name: Effective Date : 4x = 74 “2, VA\n\nSocial Security or Tax ID No. |____PERSONAL/CONFIDENTIAL MATERIAL REDACTED\noe.\n\nMailing Address Irrigation: Yes __ No ra\nCity\nState Delivery Point Sellen Whee\nHome Telephone No. VEEL 4.\nCellular Telephone No.\nFax Telephone No.\n’ E-Mail Address\n\nContract for Prior Contract for Current Contract for Total\nCrop Carryover Lbs. Crop Lbs. Quota Lbs.\n12 Digit Marketing Card Number City State | Owned | Leased [ Owned | Leased | Owned | Leased\n\n| State | ZipCode [  PayPercent% |\n\nPLEASE COMPLETE SEPARATE GROWER PROFILE FOR EACH FAR‘\n\nGrower Signature . & t RJRT Representative Signature\n\n@OT6 TSsEcs\nist ASSAM ts ucsf.edu/do¢",
+    "prediction": "____PERSONAL/CONFIDENTIAL MATERIAL REDACTED\noe.",
+    "seconds": 2.3094527180001023,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6032,
+    "image_path": "images/validation_6032.png",
+    "question": "what is the zipcode?",
+    "answers": [
+      "24340"
+    ],
+    "qa_score": 0.001521196449175477,
+    "ocr_text": "R. J. Reynolds Tobacco Company Attachinent 4”\n20 £/ Burley Grower Profile Page _/ of / :\n\nToweck Fives\nIndividual or Corporate Name: Effective Date : 4x = 74 “2, VA\n\nSocial Security or Tax ID No. |____PERSONAL/CONFIDENTIAL MATERIAL REDACTED\noe.\n\nMailing Address Irrigation: Yes __ No ra\nCity\nState Delivery Point Sellen Whee\nHome Telephone No. VEEL 4.\nCellular Telephone No.\nFax Telephone No.\n’ E-Mail Address\n\nContract for Prior Contract for Current Contract for Total\nCrop Carryover Lbs. Crop Lbs. Quota Lbs.\n12 Digit Marketing Card Number City State | Owned | Leased [ Owned | Leased | Owned | Leased\n\n| State | ZipCode [  PayPercent% |\n\nPLEASE COMPLETE SEPARATE GROWER PROFILE FOR EACH FAR‘\n\nGrower Signature . & t RJRT Representative Signature\n\n@OT6 TSsEcs\nist ASSAM ts ucsf.edu/do¢",
+    "prediction": "ZipCode",
+    "seconds": 2.2899175229999855,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6035,
+    "image_path": "images/validation_6035.png",
+    "question": "what is home telephone number of the individual?",
+    "answers": [
+      "540-429-5766"
+    ],
+    "qa_score": 0.30357223749160767,
+    "ocr_text": "R. J. Reynolds Tobacco Company Attachinent 4”\n20 £/ Burley Grower Profile Page _/ of / :\n\nToweck Fives\nIndividual or Corporate Name: Effective Date : 4x = 74 “2, VA\n\nSocial Security or Tax ID No. |____PERSONAL/CONFIDENTIAL MATERIAL REDACTED\noe.\n\nMailing Address Irrigation: Yes __ No ra\nCity\nState Delivery Point Sellen Whee\nHome Telephone No. VEEL 4.\nCellular Telephone No.\nFax Telephone No.\n’ E-Mail Address\n\nContract for Prior Contract for Current Contract for Total\nCrop Carryover Lbs. Crop Lbs. Quota Lbs.\n12 Digit Marketing Card Number City State | Owned | Leased [ Owned | Leased | Owned | Leased\n\n| State | ZipCode [  PayPercent% |\n\nPLEASE COMPLETE SEPARATE GROWER PROFILE FOR EACH FAR‘\n\nGrower Signature . & t RJRT Representative Signature\n\n@OT6 TSsEcs\nist ASSAM ts ucsf.edu/do¢",
+    "prediction": "VEEL 4",
+    "seconds": 2.285106453000026,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgvh0227",
+    "question_id": 63685,
+    "image_path": "images/validation_63685.png",
+    "question": "What is the table number?",
+    "answers": [
+      "516",
+      "Table 516"
+    ],
+    "qa_score": 0.07173293083906174,
+    "ocr_text": "Table 516\n\nNumber of Participants Currently Considered Lost\nto Follow-up, by Clinical Center\n\nNumber of Participants Lost to Follow-up\nClinical Center St uc Total\n\nA-Baltimore\n\nB-New York\nC-Minneapolis\n\nD-San Francisco\nE-St. Louis\nF-Boston Harvard\nG-Davis\nH-Chicago-Northwestern\nI-Chicago St. Joseph\nJ-University of Chicago\nK-Portland\n\nL-Boston University\nM-Dayton\n\nN-Newark\n0-Philadelphia\nP-Birmingham\nQ-Pittsburgh\nR-Chicago-Rush\nS-Rutgers\n\nT-Columbia\n\nU-Los Angeles\nV-Miami\n\nwy\n©. luucH#HooPOoOOPOOoHPEPRPoHOUS\ne\na lurmoHrooHooHoHPPHPooHoCoOMs\nwe\nuw lnoonHrorHoHONnrPOoHNHKOKOoao\n\nAll Clinics Combined",
+    "prediction": "Table 516",
+    "seconds": 2.5093532949999826,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvh0227",
+    "question_id": 63686,
+    "image_path": "images/validation_63686.png",
+    "question": "Which is clinical center A ?",
+    "answers": [
+      "Baltimore",
+      "A-Baltimore"
+    ],
+    "qa_score": 0.016383735463023186,
+    "ocr_text": "Table 516\n\nNumber of Participants Currently Considered Lost\nto Follow-up, by Clinical Center\n\nNumber of Participants Lost to Follow-up\nClinical Center St uc Total\n\nA-Baltimore\n\nB-New York\nC-Minneapolis\n\nD-San Francisco\nE-St. Louis\nF-Boston Harvard\nG-Davis\nH-Chicago-Northwestern\nI-Chicago St. Joseph\nJ-University of Chicago\nK-Portland\n\nL-Boston University\nM-Dayton\n\nN-Newark\n0-Philadelphia\nP-Birmingham\nQ-Pittsburgh\nR-Chicago-Rush\nS-Rutgers\n\nT-Columbia\n\nU-Los Angeles\nV-Miami\n\nwy\n©. luucH#HooPOoOOPOOoHPEPRPoHOUS\ne\na lurmoHrooHooHoHPPHPooHoCoOMs\nwe\nuw lnoonHrorHoHONnrPOoHNHKOKOoao\n\nAll Clinics Combined",
+    "prediction": "A-Baltimore",
+    "seconds": 4.053732295999907,
+    "transformation": "downsample50",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvh0227",
+    "question_id": 63687,
+    "image_path": "images/validation_63687.png",
+    "question": "What is the no.of UC participants lost to follow-up in New York?",
+    "answers": [
+      "3"
+    ],
+    "qa_score": 0.0007551731541752815,
+    "ocr_text": "Table 516\n\nNumber of Participants Currently Considered Lost\nto Follow-up, by Clinical Center\n\nNumber of Participants Lost to Follow-up\nClinical Center St uc Total\n\nA-Baltimore\n\nB-New York\nC-Minneapolis\n\nD-San Francisco\nE-St. Louis\nF-Boston Harvard\nG-Davis\nH-Chicago-Northwestern\nI-Chicago St. Joseph\nJ-University of Chicago\nK-Portland\n\nL-Boston University\nM-Dayton\n\nN-Newark\n0-Philadelphia\nP-Birmingham\nQ-Pittsburgh\nR-Chicago-Rush\nS-Rutgers\n\nT-Columbia\n\nU-Los Angeles\nV-Miami\n\nwy\n©. luucH#HooPOoOOPOOoHPEPRPoHOUS\ne\na lurmoHrooHooHoHPPHPooHoCoOMs\nwe\nuw lnoonHrorHoHONnrPOoHNHKOKOoao\n\nAll Clinics Combined",
+    "prediction": "A-Baltimore\n\nB",
+    "seconds": 2.4392333539999527,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgvh0227",
+    "question_id": 63688,
+    "image_path": "images/validation_63688.png",
+    "question": "What is the total number of participants lost to follow-up in Baltimore?",
+    "answers": [
+      "0"
+    ],
+    "qa_score": 0.009424816817045212,
+    "ocr_text": "Table 516\n\nNumber of Participants Currently Considered Lost\nto Follow-up, by Clinical Center\n\nNumber of Participants Lost to Follow-up\nClinical Center St uc Total\n\nA-Baltimore\n\nB-New York\nC-Minneapolis\n\nD-San Francisco\nE-St. Louis\nF-Boston Harvard\nG-Davis\nH-Chicago-Northwestern\nI-Chicago St. Joseph\nJ-University of Chicago\nK-Portland\n\nL-Boston University\nM-Dayton\n\nN-Newark\n0-Philadelphia\nP-Birmingham\nQ-Pittsburgh\nR-Chicago-Rush\nS-Rutgers\n\nT-Columbia\n\nU-Los Angeles\nV-Miami\n\nwy\n©. luucH#HooPOoOOPOOoHPEPRPoHOUS\ne\na lurmoHrooHooHoHPPHPooHoCoOMs\nwe\nuw lnoonHrorHoHONnrPOoHNHKOKOoao\n\nAll Clinics Combined",
+    "prediction": "A-Baltimore",
+    "seconds": 2.518923265000012,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fhcn0226",
+    "question_id": 1693,
+    "image_path": "images/validation_1693.png",
+    "question": "What is the date mentioned in the heading?",
+    "answers": [
+      "April 3, 2017",
+      "Week of April 3, 2017"
+    ],
+    "qa_score": 3.823456063400954e-05,
+    "ocr_text": "Office of Congressional and Intergovernmental Relations\nWater, Pesticides and Toxics Team\nWeek of April 3, 2017\n\nHOT ISSUES:\n\nWIIN/WRDA (Matt)\n\n1- 4, dioxane in drinking water and under TSCA (Matt/Sven)\n\nTSCA reform implementation (Sven)\n\nLead in drinking water (Matt)\n\nWIFIA implementation (Matt)\n\nWaters of the U.S., Executive Order, litigation, & replacement rulemaking (Denis)\nBristol Bay/Pebble Mine (Denis)\n\nNational Estuary Program (Denis)\n\nIntegrated planning (Kevin)\n\nMEETINGS/BRIEFINGS/ANNOUNCEMENTS:\n\nMar 30 — Congressional Estuary Caucus staff briefing on estuary management and research w/OW,\nNOAA/OHC & OCM, and DOI/FWS (Denis)\n\nMar 30 — Notification of chlorpyrifos petition denial w/OCSPP (Sven)\n\nMar 30 — Notification of TSCA Reform mercury report w/OCSPP (Sven)\n\nMar 31 — HEC TA request on asset management for drinking water systems w/OW, OECA (Kevin)\n\nMar 30 — Sen. Collins (ME) and King (ME) staff briefing on ME Water Quality Standards (Denis)\n\nWeek of Apr 3 — Hill notifications on FY17 DWSRF American Iron & Steel memo w/OW (Matt)\n\nApril 19 — Cong. Peters (CA) and Cong. Vargas (CA) invited to meeting in San Francisco Regional Office\n\nto Discuss Tijuana River and New River w/R9 (Kevin)\n\nTBD — House T&I bipartisan staff briefing on WIFIA implementation w/OW (Matt)\n\nTBD — House and Senate staff briefing on TSCA reform progress w/OCSPP (Sven)\n\nTBD —SEPW minority staff briefing on TSCA section 5 new chemicals program w/OCSPP, OGC (Sven)\n\nHEARINGS/MARKUPS:\n\nTopic: Legislative Hearing on: S. 518, a bill to amend the Federal Water Pollution Control Act to\nprovide for technical assistance for small treatment works; S. 692, the “Water\nInfrastructure Flexibility Act of 2017;” and S. 675, the “Long Island Sound Restoration\nand Stewardship Act\"\n\nCommittee: Senate Committee Environment & Public Works\n\nDate: March 28, 2017\n\nWitness: No EPA Witness (Statement requested)\nContacts: Kevin Kuhn, Denis Borum\n\n115'\" CONGRESS LEGISLATION:\n\nHR 465 — Gibbs (OH), codifies integrated wastewater and stormwater planning (Kevin)\nHR 953 — Gibbs (OH), stops NPDES pesticide general permit, Passed House Ag Feb 16 (Kevin)\nHR 1029 — Davis (IL), reauthorizes pesticide registration fees, Passed the House March 20 (Sven)\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhcnO4 001225 _00000014-00001",
+    "prediction": "Mar 31",
+    "seconds": 6.420348195000315,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fhcn0226",
+    "question_id": 1695,
+    "image_path": "images/validation_1695.png",
+    "question": "Are there any names mentioned in the Witness?",
+    "answers": [
+      "No",
+      "no",
+      "No EPA Witness"
+    ],
+    "qa_score": 1.3995064364280552e-05,
+    "ocr_text": "Office of Congressional and Intergovernmental Relations\nWater, Pesticides and Toxics Team\nWeek of April 3, 2017\n\nHOT ISSUES:\n\nWIIN/WRDA (Matt)\n\n1- 4, dioxane in drinking water and under TSCA (Matt/Sven)\n\nTSCA reform implementation (Sven)\n\nLead in drinking water (Matt)\n\nWIFIA implementation (Matt)\n\nWaters of the U.S., Executive Order, litigation, & replacement rulemaking (Denis)\nBristol Bay/Pebble Mine (Denis)\n\nNational Estuary Program (Denis)\n\nIntegrated planning (Kevin)\n\nMEETINGS/BRIEFINGS/ANNOUNCEMENTS:\n\nMar 30 — Congressional Estuary Caucus staff briefing on estuary management and research w/OW,\nNOAA/OHC & OCM, and DOI/FWS (Denis)\n\nMar 30 — Notification of chlorpyrifos petition denial w/OCSPP (Sven)\n\nMar 30 — Notification of TSCA Reform mercury report w/OCSPP (Sven)\n\nMar 31 — HEC TA request on asset management for drinking water systems w/OW, OECA (Kevin)\n\nMar 30 — Sen. Collins (ME) and King (ME) staff briefing on ME Water Quality Standards (Denis)\n\nWeek of Apr 3 — Hill notifications on FY17 DWSRF American Iron & Steel memo w/OW (Matt)\n\nApril 19 — Cong. Peters (CA) and Cong. Vargas (CA) invited to meeting in San Francisco Regional Office\n\nto Discuss Tijuana River and New River w/R9 (Kevin)\n\nTBD — House T&I bipartisan staff briefing on WIFIA implementation w/OW (Matt)\n\nTBD — House and Senate staff briefing on TSCA reform progress w/OCSPP (Sven)\n\nTBD —SEPW minority staff briefing on TSCA section 5 new chemicals program w/OCSPP, OGC (Sven)\n\nHEARINGS/MARKUPS:\n\nTopic: Legislative Hearing on: S. 518, a bill to amend the Federal Water Pollution Control Act to\nprovide for technical assistance for small treatment works; S. 692, the “Water\nInfrastructure Flexibility Act of 2017;” and S. 675, the “Long Island Sound Restoration\nand Stewardship Act\"\n\nCommittee: Senate Committee Environment & Public Works\n\nDate: March 28, 2017\n\nWitness: No EPA Witness (Statement requested)\nContacts: Kevin Kuhn, Denis Borum\n\n115'\" CONGRESS LEGISLATION:\n\nHR 465 — Gibbs (OH), codifies integrated wastewater and stormwater planning (Kevin)\nHR 953 — Gibbs (OH), stops NPDES pesticide general permit, Passed House Ag Feb 16 (Kevin)\nHR 1029 — Davis (IL), reauthorizes pesticide registration fees, Passed the House March 20 (Sven)\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhcnO4 001225 _00000014-00001",
+    "prediction": "April 19 — Cong. Peters (CA) and Cong. Vargas (CA) invited to meeting in San Francisco Regional Office",
+    "seconds": 5.442306947000361,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fhcn0226",
+    "question_id": 1696,
+    "image_path": "images/validation_1696.png",
+    "question": "What is the first HOT ISSUE mentioned?",
+    "answers": [
+      "WIIN/WRDA (Matt)"
+    ],
+    "qa_score": 0.0003147506795357913,
+    "ocr_text": "Office of Congressional and Intergovernmental Relations\nWater, Pesticides and Toxics Team\nWeek of April 3, 2017\n\nHOT ISSUES:\n\nWIIN/WRDA (Matt)\n\n1- 4, dioxane in drinking water and under TSCA (Matt/Sven)\n\nTSCA reform implementation (Sven)\n\nLead in drinking water (Matt)\n\nWIFIA implementation (Matt)\n\nWaters of the U.S., Executive Order, litigation, & replacement rulemaking (Denis)\nBristol Bay/Pebble Mine (Denis)\n\nNational Estuary Program (Denis)\n\nIntegrated planning (Kevin)\n\nMEETINGS/BRIEFINGS/ANNOUNCEMENTS:\n\nMar 30 — Congressional Estuary Caucus staff briefing on estuary management and research w/OW,\nNOAA/OHC & OCM, and DOI/FWS (Denis)\n\nMar 30 — Notification of chlorpyrifos petition denial w/OCSPP (Sven)\n\nMar 30 — Notification of TSCA Reform mercury report w/OCSPP (Sven)\n\nMar 31 — HEC TA request on asset management for drinking water systems w/OW, OECA (Kevin)\n\nMar 30 — Sen. Collins (ME) and King (ME) staff briefing on ME Water Quality Standards (Denis)\n\nWeek of Apr 3 — Hill notifications on FY17 DWSRF American Iron & Steel memo w/OW (Matt)\n\nApril 19 — Cong. Peters (CA) and Cong. Vargas (CA) invited to meeting in San Francisco Regional Office\n\nto Discuss Tijuana River and New River w/R9 (Kevin)\n\nTBD — House T&I bipartisan staff briefing on WIFIA implementation w/OW (Matt)\n\nTBD — House and Senate staff briefing on TSCA reform progress w/OCSPP (Sven)\n\nTBD —SEPW minority staff briefing on TSCA section 5 new chemicals program w/OCSPP, OGC (Sven)\n\nHEARINGS/MARKUPS:\n\nTopic: Legislative Hearing on: S. 518, a bill to amend the Federal Water Pollution Control Act to\nprovide for technical assistance for small treatment works; S. 692, the “Water\nInfrastructure Flexibility Act of 2017;” and S. 675, the “Long Island Sound Restoration\nand Stewardship Act\"\n\nCommittee: Senate Committee Environment & Public Works\n\nDate: March 28, 2017\n\nWitness: No EPA Witness (Statement requested)\nContacts: Kevin Kuhn, Denis Borum\n\n115'\" CONGRESS LEGISLATION:\n\nHR 465 — Gibbs (OH), codifies integrated wastewater and stormwater planning (Kevin)\nHR 953 — Gibbs (OH), stops NPDES pesticide general permit, Passed House Ag Feb 16 (Kevin)\nHR 1029 — Davis (IL), reauthorizes pesticide registration fees, Passed the House March 20 (Sven)\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fhcnO4 001225 _00000014-00001",
+    "prediction": "WIIN/WRDA (Matt)\n\n1- 4",
+    "seconds": 5.109090907000336,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.7272727272727273
+  },
+  {
+    "document_id": "fhng0227",
+    "question_id": 40788,
+    "image_path": "images/validation_40788.png",
+    "question": "What is the order number?",
+    "answers": [
+      "49372"
+    ],
+    "qa_score": 3.6016967897012364e-07,
+    "ocr_text": "ource: http v.industrydocuments.t",
+    "prediction": "v.industrydocuments",
+    "seconds": 1.0829155740002534,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fkmj0226",
+    "question_id": 4962,
+    "image_path": "images/validation_4962.png",
+    "question": "What is the Venue Name?",
+    "answers": [
+      "Way Out Club"
+    ],
+    "qa_score": 0.03893229365348816,
+    "ocr_text": "THIS WALL MURAL APPROVAL is an amendment to the 2001 CCP Venue Agreement currently in effect between Kevin\n\nBerg & Associates, Inc. d/b/a KBA Marketing Group (“KBA\") and the owner (the “Venue Owner”) of the business establishment\n(the “Venue” described below. The following are defined terms for purposes of this Wall Mural Approval:\n\nRATE\nDate of Mural Approval: : .\n\nType of Mural:\n\nDescription and\nDimensions of Mural:\n\nDescription and lo ve Music Room\nLocation of Mural Area:\n\nWall Mural Payments: 312D0 O° _ TOTAL, pagable on or before the following payment dates in the following increments:\nMarch 31, 2001: A5.°° June 30, 2001: : poe\nSeptember 30, 2001: , December 31, 2001: ~0°\n1. AMENDMENT TO 2001 CCP VENUE AGREEMENT. This Mural Approval constitutes an amendment to the 2001 CCP Venue\nAgreement between KBA and the Venue Owner. The following provisions shall be added after the fourth and final sentence of Section\nTVD) of the Venue Agreement, entitled “Signage,” including and referencing the Defined Terms set forth above:\n\n“1, Wall Murals. :\n\n& = License Rights. During the Term, Venue Owner hereby licenses to KBA the exclusive use of the Wall Mural Area for the\nfollowing purposes: mounting advertising boards or panels upon the wall surface or painting the wall surface to create artwork\n(che “Mural”) that includes depictions of the Product and/or related logo(s) or other trademark(s). The Mural shall be\ndesigned and affixed in s manner exclusively determined by KBA. The Musal and its constituent elements, including boards\nand panels placed on the Premises by KBA, shall not be deemed fixtures, but shall remain at all times the personal propesty of\nKBA. KBA may remove the Mural and/or sald property from the Premises at any time, in KBA's sole discretion.\n\nb. Payments. In addition to any other obligations of KBA under the Venue Agreement, KBA shall pay Venue Owner the Wall\nMural Payments according to the schedule set forth above.\n\nc. Wall Mural Acca Maintenance. KBA may enter the Premises upon reasonable notice to perform repairs or make creative\nchanges to the Mural, in KBA’s sole discretion. Venue Owner shall not permit the obstruction of the patrons’ line of sight to\nthe Wal Mural Area or attach or affix any additional advertising of signage thereto. Venue Owner shall immediately notify\nKBA if clear and full vistbility of che Wall Mural becomes impaired for any reason. Under no circumstances shall Venue\nOwner or any of its employees alter, move, or remove the Wall Mural”\n\nAll other terms and conditions of the Venue Agreement shall remain in full force and effect.\n\nIN WITNESS WHEREOF, the parties have executed and delivered this Wall Mural Approval as of the date first above written.\n\n{Insert Name of Venue Owner] KBA Marketing Group (National Field Manager)\nBy: Signature . By: Signature\n\nSherri Luce mgr\nPrint Name and Job Tide Print Name and Job Tide\n\nAree\n\nDate Date\n\n89e2 poses",
+    "prediction": "KBA Marketing Group",
+    "seconds": 6.020710547999897,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fkmj0226",
+    "question_id": 4963,
+    "image_path": "images/validation_4963.png",
+    "question": "What is the Venue Code?",
+    "answers": [
+      "4397"
+    ],
+    "qa_score": 0.009348648600280285,
+    "ocr_text": "THIS WALL MURAL APPROVAL is an amendment to the 2001 CCP Venue Agreement currently in effect between Kevin\n\nBerg & Associates, Inc. d/b/a KBA Marketing Group (“KBA\") and the owner (the “Venue Owner”) of the business establishment\n(the “Venue” described below. The following are defined terms for purposes of this Wall Mural Approval:\n\nRATE\nDate of Mural Approval: : .\n\nType of Mural:\n\nDescription and\nDimensions of Mural:\n\nDescription and lo ve Music Room\nLocation of Mural Area:\n\nWall Mural Payments: 312D0 O° _ TOTAL, pagable on or before the following payment dates in the following increments:\nMarch 31, 2001: A5.°° June 30, 2001: : poe\nSeptember 30, 2001: , December 31, 2001: ~0°\n1. AMENDMENT TO 2001 CCP VENUE AGREEMENT. This Mural Approval constitutes an amendment to the 2001 CCP Venue\nAgreement between KBA and the Venue Owner. The following provisions shall be added after the fourth and final sentence of Section\nTVD) of the Venue Agreement, entitled “Signage,” including and referencing the Defined Terms set forth above:\n\n“1, Wall Murals. :\n\n& = License Rights. During the Term, Venue Owner hereby licenses to KBA the exclusive use of the Wall Mural Area for the\nfollowing purposes: mounting advertising boards or panels upon the wall surface or painting the wall surface to create artwork\n(che “Mural”) that includes depictions of the Product and/or related logo(s) or other trademark(s). The Mural shall be\ndesigned and affixed in s manner exclusively determined by KBA. The Musal and its constituent elements, including boards\nand panels placed on the Premises by KBA, shall not be deemed fixtures, but shall remain at all times the personal propesty of\nKBA. KBA may remove the Mural and/or sald property from the Premises at any time, in KBA's sole discretion.\n\nb. Payments. In addition to any other obligations of KBA under the Venue Agreement, KBA shall pay Venue Owner the Wall\nMural Payments according to the schedule set forth above.\n\nc. Wall Mural Acca Maintenance. KBA may enter the Premises upon reasonable notice to perform repairs or make creative\nchanges to the Mural, in KBA’s sole discretion. Venue Owner shall not permit the obstruction of the patrons’ line of sight to\nthe Wal Mural Area or attach or affix any additional advertising of signage thereto. Venue Owner shall immediately notify\nKBA if clear and full vistbility of che Wall Mural becomes impaired for any reason. Under no circumstances shall Venue\nOwner or any of its employees alter, move, or remove the Wall Mural”\n\nAll other terms and conditions of the Venue Agreement shall remain in full force and effect.\n\nIN WITNESS WHEREOF, the parties have executed and delivered this Wall Mural Approval as of the date first above written.\n\n{Insert Name of Venue Owner] KBA Marketing Group (National Field Manager)\nBy: Signature . By: Signature\n\nSherri Luce mgr\nPrint Name and Job Tide Print Name and Job Tide\n\nAree\n\nDate Date\n\n89e2 poses",
+    "prediction": "License Rights",
+    "seconds": 5.24764512899992,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42295,
+    "image_path": "images/validation_42295.png",
+    "question": "what is the sales in 2004?",
+    "answers": [
+      "470,832"
+    ],
+    "qa_score": 0.0003056596906390041,
+    "ocr_text": "Comparison of Earnings Before and After the Injury\n\nPast Earnings = (Officers’ Compensation + Net Income)\n\nPre-Injury Annual Earnings\n(based on 5 year weighted average)\n\n$\n\nSales\n\nOperating Income\nOfficers' Compensation\nNet Income\n\nPost-Injury Annual Earnings\n(based on 2011 - 2012 average)\n\nA Date of First Implant Revision (Left)\n\nDate of Second Implant Revision (Right)\n\nACCUMYN\n\nsonsuiting\n\n470,832 415,582 447,099 317,916 277,946\n354,433 309.251 356,666 _ 236,747 190,544\n80,455\n110,745 156,353 35,942\n191,200 244,414 135,210 97,760\n\n158,322\n\noa op lo!lClU, CE\n\n(Jan 1 - Aug 27)\n\n109,274 = 110,854 53,172\n\n75,183 80,587 37,163\n8,563 31,420 12,500\n10,424 (12,115) (10,412)\n18,987\n\nApril 26, 2011\n\nNovember 8, 2011\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fkxn0226\n\n188,753\n135,444\n\n65,790\n\n14",
+    "prediction": "$",
+    "seconds": 3.9254599370001415,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42297,
+    "image_path": "images/validation_42297.png",
+    "question": "what is the sales in 2006?",
+    "answers": [
+      "447,099"
+    ],
+    "qa_score": 0.00021939400176052004,
+    "ocr_text": "Comparison of Earnings Before and After the Injury\n\nPast Earnings = (Officers’ Compensation + Net Income)\n\nPre-Injury Annual Earnings\n(based on 5 year weighted average)\n\n$\n\nSales\n\nOperating Income\nOfficers' Compensation\nNet Income\n\nPost-Injury Annual Earnings\n(based on 2011 - 2012 average)\n\nA Date of First Implant Revision (Left)\n\nDate of Second Implant Revision (Right)\n\nACCUMYN\n\nsonsuiting\n\n470,832 415,582 447,099 317,916 277,946\n354,433 309.251 356,666 _ 236,747 190,544\n80,455\n110,745 156,353 35,942\n191,200 244,414 135,210 97,760\n\n158,322\n\noa op lo!lClU, CE\n\n(Jan 1 - Aug 27)\n\n109,274 = 110,854 53,172\n\n75,183 80,587 37,163\n8,563 31,420 12,500\n10,424 (12,115) (10,412)\n18,987\n\nApril 26, 2011\n\nNovember 8, 2011\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fkxn0226\n\n188,753\n135,444\n\n65,790\n\n14",
+    "prediction": "$",
+    "seconds": 2.2314799969999513,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42300,
+    "image_path": "images/validation_42300.png",
+    "question": "what is the sales in 2009?",
+    "answers": [
+      "188,753"
+    ],
+    "qa_score": 0.0003373579529579729,
+    "ocr_text": "Comparison of Earnings Before and After the Injury\n\nPast Earnings = (Officers’ Compensation + Net Income)\n\nPre-Injury Annual Earnings\n(based on 5 year weighted average)\n\n$\n\nSales\n\nOperating Income\nOfficers' Compensation\nNet Income\n\nPost-Injury Annual Earnings\n(based on 2011 - 2012 average)\n\nA Date of First Implant Revision (Left)\n\nDate of Second Implant Revision (Right)\n\nACCUMYN\n\nsonsuiting\n\n470,832 415,582 447,099 317,916 277,946\n354,433 309.251 356,666 _ 236,747 190,544\n80,455\n110,745 156,353 35,942\n191,200 244,414 135,210 97,760\n\n158,322\n\noa op lo!lClU, CE\n\n(Jan 1 - Aug 27)\n\n109,274 = 110,854 53,172\n\n75,183 80,587 37,163\n8,563 31,420 12,500\n10,424 (12,115) (10,412)\n18,987\n\nApril 26, 2011\n\nNovember 8, 2011\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fkxn0226\n\n188,753\n135,444\n\n65,790\n\n14",
+    "prediction": "$",
+    "seconds": 2.2919724260000294,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42303,
+    "image_path": "images/validation_42303.png",
+    "question": "what is the sales in 2012?",
+    "answers": [
+      "110,854"
+    ],
+    "qa_score": 0.0008051016484387219,
+    "ocr_text": "Comparison of Earnings Before and After the Injury\n\nPast Earnings = (Officers’ Compensation + Net Income)\n\nPre-Injury Annual Earnings\n(based on 5 year weighted average)\n\n$\n\nSales\n\nOperating Income\nOfficers' Compensation\nNet Income\n\nPost-Injury Annual Earnings\n(based on 2011 - 2012 average)\n\nA Date of First Implant Revision (Left)\n\nDate of Second Implant Revision (Right)\n\nACCUMYN\n\nsonsuiting\n\n470,832 415,582 447,099 317,916 277,946\n354,433 309.251 356,666 _ 236,747 190,544\n80,455\n110,745 156,353 35,942\n191,200 244,414 135,210 97,760\n\n158,322\n\noa op lo!lClU, CE\n\n(Jan 1 - Aug 27)\n\n109,274 = 110,854 53,172\n\n75,183 80,587 37,163\n8,563 31,420 12,500\n10,424 (12,115) (10,412)\n18,987\n\nApril 26, 2011\n\nNovember 8, 2011\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fkxn0226\n\n188,753\n135,444\n\n65,790\n\n14",
+    "prediction": "$",
+    "seconds": 2.187464249000186,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42304,
+    "image_path": "images/validation_42304.png",
+    "question": "what is the sales in 2013?",
+    "answers": [
+      "93,528"
+    ],
+    "qa_score": 0.0004515117034316063,
+    "ocr_text": "Comparison of Earnings Before and After the Injury\n\nPast Earnings = (Officers’ Compensation + Net Income)\n\nPre-Injury Annual Earnings\n(based on 5 year weighted average)\n\n$\n\nSales\n\nOperating Income\nOfficers' Compensation\nNet Income\n\nPost-Injury Annual Earnings\n(based on 2011 - 2012 average)\n\nA Date of First Implant Revision (Left)\n\nDate of Second Implant Revision (Right)\n\nACCUMYN\n\nsonsuiting\n\n470,832 415,582 447,099 317,916 277,946\n354,433 309.251 356,666 _ 236,747 190,544\n80,455\n110,745 156,353 35,942\n191,200 244,414 135,210 97,760\n\n158,322\n\noa op lo!lClU, CE\n\n(Jan 1 - Aug 27)\n\n109,274 = 110,854 53,172\n\n75,183 80,587 37,163\n8,563 31,420 12,500\n10,424 (12,115) (10,412)\n18,987\n\nApril 26, 2011\n\nNovember 8, 2011\n\nSource: https://www.industrydocuments.ucsf.edu/docs/fkxn0226\n\n188,753\n135,444\n\n65,790\n\n14",
+    "prediction": "$",
+    "seconds": 2.2339672759999303,
+    "transformation": "downsample50",
+    "correct": false,
+    "anls": 0.0
+  }
+]

@@ -1,0 +1,29 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Download datasets separately through DATA.md
+/data/**
+!/data/README.md
+/data_clean/
+
+# Download models separately through DATA.md
+/checkpoints/**
+!/checkpoints/README.md
+/local_models/
+*.safetensors
+*.pt
+*.pth
+pytorch_model*.bin
+
+# Archive files
+*.rar
+*.zip
+
+# Private configuration
+.env
+.env.*
+!.env.example

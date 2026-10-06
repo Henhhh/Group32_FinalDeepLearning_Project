@@ -1,0 +1,4 @@
+﻿method,questions,correct,em_percent,anls,seconds
+OCR + RoBERTa QA,57,14,24.5614,0.2904,3.2273
+Donut before FT,57,40,70.1754,0.7739,1.6033
+Donut after FT,57,40,70.1754,0.7609,1.5398

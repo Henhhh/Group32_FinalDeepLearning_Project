@@ -1,0 +1,762 @@
+[
+  {
+    "question_id": "cord_test_000_total_price",
+    "document_id": "cord_test_000",
+    "image_path": "images/receipt_000.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "60.000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.015495244413614273,
+    "ocr_text": "-TICKET CP\n2 60,000 £0,000\n\n901016\n\nTOTAL DISC $\nTAX\n\nSubtotal\nTOTAL caty 2.00 60,000\n\n= EDC CINB NIAGA No: xx7730 60.000\n\nee maeh Tur),",
+    "prediction": "caty 2.00 60,000",
+    "seconds": 0.4813820129998021,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_000_subtotal_price",
+    "document_id": "cord_test_000",
+    "image_path": "images/receipt_000.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "60.000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.015777038410305977,
+    "ocr_text": "-TICKET CP\n2 60,000 £0,000\n\n901016\n\nTOTAL DISC $\nTAX\n\nSubtotal\nTOTAL caty 2.00 60,000\n\n= EDC CINB NIAGA No: xx7730 60.000\n\nee maeh Tur),",
+    "prediction": "caty 2.00 60,000",
+    "seconds": 0.4756080480001401,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_000_tax_price",
+    "document_id": "cord_test_000",
+    "image_path": "images/receipt_000.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "5.455"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.00967441312968731,
+    "ocr_text": "-TICKET CP\n2 60,000 £0,000\n\n901016\n\nTOTAL DISC $\nTAX\n\nSubtotal\nTOTAL caty 2.00 60,000\n\n= EDC CINB NIAGA No: xx7730 60.000\n\nee maeh Tur),",
+    "prediction": "$\nTAX",
+    "seconds": 0.4734188410002389,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_001_total_price",
+    "document_id": "cord_test_001",
+    "image_path": "images/receipt_001.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "91000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.5431001449996984,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_002_total_price",
+    "document_id": "cord_test_002",
+    "image_path": "images/receipt_002.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "28,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.011628299951553345,
+    "ocr_text": "Ihe MT CL) 24,000\nronUT JELLY CL) 4,000\n\nSUB TUT 28,000\n\n+4\nTOTAL SAIS 26.000\nTOTAL TMS \\\nCASH 100,000\nCHANGE",
+    "prediction": "26.000",
+    "seconds": 0.9098398260002796,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.6666666666666667
+  },
+  {
+    "question_id": "cord_test_002_subtotal_price",
+    "document_id": "cord_test_002",
+    "image_path": "images/receipt_002.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "28,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0027873502112925053,
+    "ocr_text": "Ihe MT CL) 24,000\nronUT JELLY CL) 4,000\n\nSUB TUT 28,000\n\n+4\nTOTAL SAIS 26.000\nTOTAL TMS \\\nCASH 100,000\nCHANGE",
+    "prediction": "26.000",
+    "seconds": 0.8961142340003789,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.6666666666666667
+  },
+  {
+    "question_id": "cord_test_003_total_price",
+    "document_id": "cord_test_003",
+    "image_path": "images/receipt_003.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "11,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.04758482053875923,
+    "ocr_text": "Dyin\n\nne avenar——\n\n@11000\n\nix\nDONAT GULA\n\n1.00xITEMs\n\nSUBTOTAL\nTOTAL",
+    "prediction": "SUBTOTAL",
+    "seconds": 0.7722298359999513,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_003_subtotal_price",
+    "document_id": "cord_test_003",
+    "image_path": "images/receipt_003.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "11,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.007823951542377472,
+    "ocr_text": "Dyin\n\nne avenar——\n\n@11000\n\nix\nDONAT GULA\n\n1.00xITEMs\n\nSUBTOTAL\nTOTAL",
+    "prediction": "1.00xITEMs",
+    "seconds": 0.7801825319997988,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_004_total_price",
+    "document_id": "cord_test_004",
+    "image_path": "images/receipt_004.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "174,600"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.6570357829996283,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_004_subtotal_price",
+    "document_id": "cord_test_004",
+    "image_path": "images/receipt_004.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "194,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.653690641999674,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_005_total_price",
+    "document_id": "cord_test_005",
+    "image_path": "images/receipt_005.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "31.000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.7640959620475769,
+    "ocr_text": "TRAD KY TOAST CARTE 28. 182\n\nITEMS 1.00\nSUBTTL 28.182\nPB-1 10% 2.818\nTOTAL 31.000\nCASH 31.000",
+    "prediction": "31.000",
+    "seconds": 2.722878552000111,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_005_subtotal_price",
+    "document_id": "cord_test_005",
+    "image_path": "images/receipt_005.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "28.182"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.3120468556880951,
+    "ocr_text": "TRAD KY TOAST CARTE 28. 182\n\nITEMS 1.00\nSUBTTL 28.182\nPB-1 10% 2.818\nTOTAL 31.000\nCASH 31.000",
+    "prediction": "31.000",
+    "seconds": 3.542908075000014,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_005_tax_price",
+    "document_id": "cord_test_005",
+    "image_path": "images/receipt_005.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "2.818"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.029710890725255013,
+    "ocr_text": "TRAD KY TOAST CARTE 28. 182\n\nITEMS 1.00\nSUBTTL 28.182\nPB-1 10% 2.818\nTOTAL 31.000\nCASH 31.000",
+    "prediction": "10% 2.818",
+    "seconds": 2.58195535699997,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.5555555555555556
+  },
+  {
+    "question_id": "cord_test_006_total_price",
+    "document_id": "cord_test_006",
+    "image_path": "images/receipt_006.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "46,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.6470872759819031,
+    "ocr_text": "ae ise we\n\n1 2GG TART oe\n2 SHOCO CUS“ARD PASTRY _ 24th\n1 2EDBEAN BI’EAD ite\n\nTOTAL 46,000\n2ASH 50,000\nCHANCE 4,000",
+    "prediction": "46,000",
+    "seconds": 0.968340397999782,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "question_id": "cord_test_007_total_price",
+    "document_id": "cord_test_007",
+    "image_path": "images/receipt_007.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "111,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.30501818399989133,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_007_subtotal_price",
+    "document_id": "cord_test_007",
+    "image_path": "images/receipt_007.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "100,909"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.30957557700003235,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_007_tax_price",
+    "document_id": "cord_test_007",
+    "image_path": "images/receipt_007.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "10,091"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.29454890799979694,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_008_total_price",
+    "document_id": "cord_test_008",
+    "image_path": "images/receipt_008.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "50,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.6067165069998737,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_008_subtotal_price",
+    "document_id": "cord_test_008",
+    "image_path": "images/receipt_008.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "45,455"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.6170902819999355,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_008_tax_price",
+    "document_id": "cord_test_008",
+    "image_path": "images/receipt_008.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "4,545"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.6086011010002039,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_009_subtotal_price",
+    "document_id": "cord_test_009",
+    "image_path": "images/receipt_009.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "36000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.002217175904661417,
+    "ocr_text": "36000\n\nSub Total\n\nDiscount (0 %)\nTunai\n\nKembalian",
+    "prediction": "0 %",
+    "seconds": 0.6847894149996137,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_010_total_price",
+    "document_id": "cord_test_010",
+    "image_path": "images/receipt_010.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "17,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.02072795107960701,
+    "ocr_text": ") Sen eetie Asay,\n\nCINNAMON SUGAR\n4 ai DOU\n\nSUB TOTAL\nGRAND TOTAL\nCASH IDR\n\nCHANGE DUE\n\n17,000\n17,000\n\n17,000\n20,000\n\n3,000",
+    "prediction": "17,000\n17,000\n\n17,000\n20,000\n\n3,000",
+    "seconds": 1.21496392500012,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_010_subtotal_price",
+    "document_id": "cord_test_010",
+    "image_path": "images/receipt_010.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "17,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.008775574155151844,
+    "ocr_text": ") Sen eetie Asay,\n\nCINNAMON SUGAR\n4 ai DOU\n\nSUB TOTAL\nGRAND TOTAL\nCASH IDR\n\nCHANGE DUE\n\n17,000\n17,000\n\n17,000\n20,000\n\n3,000",
+    "prediction": "17,000\n17,000\n\n17,000\n20,000\n\n3,000",
+    "seconds": 0.8589226830004009,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_011_total_price",
+    "document_id": "cord_test_011",
+    "image_path": "images/receipt_011.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "230,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.2780056749998039,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_012_total_price",
+    "document_id": "cord_test_012",
+    "image_path": "images/receipt_012.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "120,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.3462974959998064,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_013_total_price",
+    "document_id": "cord_test_013",
+    "image_path": "images/receipt_013.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "51.300"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.5558523340000647,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_013_tax_price",
+    "document_id": "cord_test_013",
+    "image_path": "images/receipt_013.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "4.664"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.5354762269998901,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_014_total_price",
+    "document_id": "cord_test_014",
+    "image_path": "images/receipt_014.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "281,435"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.04933485761284828,
+    "ocr_text": "RedVelvel Cheese Sle\n\nChicken Raked Rice\nFish # Chips\nHushiroom Soup\nChamanile\n\nTeed Teas\n\nee ee Se ete tn Serco n ror fi for ko bres\n\nSUBTOTAL\nService\nPRI\n\nsale\nCAS\nChange\n\nee tm nee ene ae eae Hee nent fy\nSee SES SSSA SoS casSs\n\nee a ee ee lone ee ae a en Be fae Sa em ane co Sane So eee neh ee or\n\na re en ee me gm ame mee meee ne name ems met Ne ne et ae gs ee a ap gh ee Dn He Pe Ra Ae\n\n100,000\n200 , 000\n18,565",
+    "prediction": "000\n18,565",
+    "seconds": 4.725851276999947,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_014_subtotal_price",
+    "document_id": "cord_test_014",
+    "image_path": "images/receipt_014.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "238,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.018047435209155083,
+    "ocr_text": "RedVelvel Cheese Sle\n\nChicken Raked Rice\nFish # Chips\nHushiroom Soup\nChamanile\n\nTeed Teas\n\nee ee Se ete tn Serco n ror fi for ko bres\n\nSUBTOTAL\nService\nPRI\n\nsale\nCAS\nChange\n\nee tm nee ene ae eae Hee nent fy\nSee SES SSSA SoS casSs\n\nee a ee ee lone ee ae a en Be fae Sa em ane co Sane So eee neh ee or\n\na re en ee me gm ame mee meee ne name ems met Ne ne et ae gs ee a ap gh ee Dn He Pe Ra Ae\n\n100,000\n200 , 000\n18,565",
+    "prediction": "100,000\n200 , 000\n18,565",
+    "seconds": 2.9620758860000933,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_014_tax_price",
+    "document_id": "cord_test_014",
+    "image_path": "images/receipt_014.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "25,585"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.018448051065206528,
+    "ocr_text": "RedVelvel Cheese Sle\n\nChicken Raked Rice\nFish # Chips\nHushiroom Soup\nChamanile\n\nTeed Teas\n\nee ee Se ete tn Serco n ror fi for ko bres\n\nSUBTOTAL\nService\nPRI\n\nsale\nCAS\nChange\n\nee tm nee ene ae eae Hee nent fy\nSee SES SSSA SoS casSs\n\nee a ee ee lone ee ae a en Be fae Sa em ane co Sane So eee neh ee or\n\na re en ee me gm ame mee meee ne name ems met Ne ne et ae gs ee a ap gh ee Dn He Pe Ra Ae\n\n100,000\n200 , 000\n18,565",
+    "prediction": "000\n18,565",
+    "seconds": 2.9186549440000817,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_015_total_price",
+    "document_id": "cord_test_015",
+    "image_path": "images/receipt_015.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "63.000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0,
+    "ocr_text": "",
+    "prediction": "",
+    "seconds": 0.347767567000119,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_016_total_price",
+    "document_id": "cord_test_016",
+    "image_path": "images/receipt_016.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "70,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.006664477754384279,
+    "ocr_text": "4 [LG] BLACK SAKURA\n1 LONGAN\n\n1 ROASTED ALMOND\n\n1 VANGGO\n\n1 VINERAL WATER (bundling) 5k\n\nSub Total\nPB1 (10%)\nRounding\nTotal\n\nCash Payment",
+    "prediction": "5k",
+    "seconds": 0.9136031559996809,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_016_subtotal_price",
+    "document_id": "cord_test_016",
+    "image_path": "images/receipt_016.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "63,636"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.009703696705400944,
+    "ocr_text": "4 [LG] BLACK SAKURA\n1 LONGAN\n\n1 ROASTED ALMOND\n\n1 VANGGO\n\n1 VINERAL WATER (bundling) 5k\n\nSub Total\nPB1 (10%)\nRounding\nTotal\n\nCash Payment",
+    "prediction": "PB1",
+    "seconds": 0.9041538220003531,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_016_tax_price",
+    "document_id": "cord_test_016",
+    "image_path": "images/receipt_016.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "6,364"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0018629012629389763,
+    "ocr_text": "4 [LG] BLACK SAKURA\n1 LONGAN\n\n1 ROASTED ALMOND\n\n1 VANGGO\n\n1 VINERAL WATER (bundling) 5k\n\nSub Total\nPB1 (10%)\nRounding\nTotal\n\nCash Payment",
+    "prediction": "PB1 (10%)",
+    "seconds": 1.2898656460001803,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_017_total_price",
+    "document_id": "cord_test_017",
+    "image_path": "images/receipt_017.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "Rp. 91,000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.064047671854496,
+    "ocr_text": "Goblin's Mace\n\nMozarelia Hot\n\nDog\nChili Pepper\nCroquetio\nCheese\nCroquette\nPlastik Amook\n\nPlastik Putih\nTake Away\n\nubtotal\nDiscount\nTOTAL\nDebit\n\n25,000\n38,000\n14,000\n\n14,000",
+    "prediction": "25,000\n38,000\n14,000\n\n14,000",
+    "seconds": 1.2025885969997034,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_017_subtotal_price",
+    "document_id": "cord_test_017",
+    "image_path": "images/receipt_017.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "91,000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.027323080226778984,
+    "ocr_text": "Goblin's Mace\n\nMozarelia Hot\n\nDog\nChili Pepper\nCroquetio\nCheese\nCroquette\nPlastik Amook\n\nPlastik Putih\nTake Away\n\nubtotal\nDiscount\nTOTAL\nDebit\n\n25,000\n38,000\n14,000\n\n14,000",
+    "prediction": "25,000\n38,000\n14,000\n\n14,000",
+    "seconds": 1.0220825050000713,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_018_total_price",
+    "document_id": "cord_test_018",
+    "image_path": "images/receipt_018.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "156000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.017053795978426933,
+    "ocr_text": "Tunai\n146000\n\nmbalian R",
+    "prediction": "Tunai\n146000",
+    "seconds": 0.4131199420003213,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_019_total_price",
+    "document_id": "cord_test_019",
+    "image_path": "images/receipt_019.png",
+    "question": "What is the total amount on the receipt?",
+    "answers": [
+      "176000"
+    ],
+    "question_type": "total_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.0003751926124095917,
+    "ocr_text": "Save\n\nre",
+    "prediction": "re",
+    "seconds": 0.43281744400019306,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_019_subtotal_price",
+    "document_id": "cord_test_019",
+    "image_path": "images/receipt_019.png",
+    "question": "What is the subtotal amount on the receipt?",
+    "answers": [
+      "160000"
+    ],
+    "question_type": "subtotal_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 9.750758908921853e-05,
+    "ocr_text": "Save\n\nre",
+    "prediction": "re",
+    "seconds": 0.4468202649995874,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "question_id": "cord_test_019_tax_price",
+    "document_id": "cord_test_019",
+    "image_path": "images/receipt_019.png",
+    "question": "What is the tax amount on the receipt?",
+    "answers": [
+      "16000"
+    ],
+    "question_type": "tax_price",
+    "source": "naver-clova-ix/cord-v2",
+    "source_split": "test",
+    "qa_score": 0.00023345398949459195,
+    "ocr_text": "Save\n\nre",
+    "prediction": "re",
+    "seconds": 0.43309503899990887,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  }
+]

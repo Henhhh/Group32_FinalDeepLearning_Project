@@ -1,0 +1,9 @@
+﻿method,type,questions,correct,em_percent,anls,seconds
+OCR + QA,all,40,2,5,0.0972,1.059
+OCR + QA,subtotal,13,0,0,0.0513,1.1266
+OCR + QA,tax,8,0,0,0.0694,1.353
+OCR + QA,total,19,2,10.5263,0.1404,0.8889
+Donut after FT,all,40,27,67.5,0.7495,1.657
+Donut after FT,subtotal,13,12,92.3077,0.9231,1.6423
+Donut after FT,tax,8,3,37.5,0.375,1.7233
+Donut after FT,total,19,12,63.1579,0.7885,1.6392

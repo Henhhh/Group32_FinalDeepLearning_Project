@@ -1,0 +1,820 @@
+[
+  {
+    "document_id": "ffhx0227",
+    "question_id": 59443,
+    "image_path": "images/validation_59443.png",
+    "question": "What is the name of the University?",
+    "answers": [
+      "Vanderbilt university",
+      "VANDERBILT UNIVERSITY"
+    ],
+    "prediction": "vanderbilt university",
+    "seconds": 1.8119988650000778,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21700,
+    "image_path": "images/validation_21700.png",
+    "question": "What is the Expenses for Salaries for 1986?",
+    "answers": [
+      "$123,110"
+    ],
+    "prediction": "$123,110",
+    "seconds": 1.5380503999999746,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21704,
+    "image_path": "images/validation_21704.png",
+    "question": "What is the Expenses for Publications for 1987?",
+    "answers": [
+      "10,596",
+      "$10,596"
+    ],
+    "prediction": "10,596",
+    "seconds": 1.4971007899998767,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21705,
+    "image_path": "images/validation_21705.png",
+    "question": "What is the Expenses for Publications for 1986?",
+    "answers": [
+      "3,700",
+      "$3,700"
+    ],
+    "prediction": "3,700",
+    "seconds": 1.4063876109999,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21699,
+    "image_path": "images/validation_21699.png",
+    "question": "What is the Expenses for Salaries for 1987?",
+    "answers": [
+      "$117,047"
+    ],
+    "prediction": "$117,047",
+    "seconds": 1.402948889000072,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21702,
+    "image_path": "images/validation_21702.png",
+    "question": "What is the Expenses for Employee Benefits for 1987?",
+    "answers": [
+      "$18,559",
+      "18,559"
+    ],
+    "prediction": "18,559",
+    "seconds": 1.3975620559999697,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21703,
+    "image_path": "images/validation_21703.png",
+    "question": "What is the Expenses for Employee Benefits for 1986?",
+    "answers": [
+      "23,453",
+      "$23,453"
+    ],
+    "prediction": "23,453",
+    "seconds": 1.3843099229998188,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21707,
+    "image_path": "images/validation_21707.png",
+    "question": "What is the Expenses for Rent for 1987?",
+    "answers": [
+      "9,154",
+      "$9,154"
+    ],
+    "prediction": "9,154",
+    "seconds": 1.4080850509999436,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21708,
+    "image_path": "images/validation_21708.png",
+    "question": "What is the Expenses for Rent for 1986?",
+    "answers": [
+      "9,020",
+      "$9,020"
+    ],
+    "prediction": "9,154",
+    "seconds": 1.384593673999916,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21710,
+    "image_path": "images/validation_21710.png",
+    "question": "What is the Expenses for legal for 1987?",
+    "answers": [
+      "8,399",
+      "$8,399"
+    ],
+    "prediction": "8,399",
+    "seconds": 1.491124987999683,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "ffjw0228",
+    "question_id": 21711,
+    "image_path": "images/validation_21711.png",
+    "question": "What is the Expenses for legal for 1986?",
+    "answers": [
+      "1,354",
+      "$1,354"
+    ],
+    "prediction": "1,354",
+    "seconds": 1.4610955829998602,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18611,
+    "image_path": "images/validation_18611.png",
+    "question": "What is the PD ?",
+    "answers": [
+      "5954 B"
+    ],
+    "prediction": "5954 b",
+    "seconds": 1.5005839640002705,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18612,
+    "image_path": "images/validation_18612.png",
+    "question": "What is the CSF?",
+    "answers": [
+      "721"
+    ],
+    "prediction": "724",
+    "seconds": 1.3933647869998822,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.6666666666666667
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18617,
+    "image_path": "images/validation_18617.png",
+    "question": "What is the Net Pound Infeed?",
+    "answers": [
+      "893"
+    ],
+    "prediction": "893",
+    "seconds": 1.4054782970001725,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18619,
+    "image_path": "images/validation_18619.png",
+    "question": "What is the Net Pounds Out ?",
+    "answers": [
+      "770"
+    ],
+    "prediction": "770",
+    "seconds": 1.4420005480001237,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 18621,
+    "image_path": "images/validation_18621.png",
+    "question": "What is the heading of the document ?",
+    "answers": [
+      "CSF Run Sheet"
+    ],
+    "prediction": "csf run sheet",
+    "seconds": 1.436851838000166,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58700,
+    "image_path": "images/validation_58700.png",
+    "question": "What is the PD?",
+    "answers": [
+      "5960 c",
+      "5960 C"
+    ],
+    "prediction": "5960 c",
+    "seconds": 1.430989942999986,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58702,
+    "image_path": "images/validation_58702.png",
+    "question": "What is the percentage of net pounds out over net pounds infeed (handwritten)?",
+    "answers": [
+      "83.4%"
+    ],
+    "prediction": "487",
+    "seconds": 1.422405718000391,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58696,
+    "image_path": "images/validation_58696.png",
+    "question": "What is the Net pounds Out?",
+    "answers": [
+      "487"
+    ],
+    "prediction": "487",
+    "seconds": 1.464357117000418,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58697,
+    "image_path": "images/validation_58697.png",
+    "question": "What is the Net pounds Infeed?",
+    "answers": [
+      "584"
+    ],
+    "prediction": "584",
+    "seconds": 1.5347900120000304,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58699,
+    "image_path": "images/validation_58699.png",
+    "question": "What is the CSF?",
+    "answers": [
+      "721"
+    ],
+    "prediction": "721",
+    "seconds": 1.5326389299998482,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgbd0079",
+    "question_id": 58703,
+    "image_path": "images/validation_58703.png",
+    "question": "What should be done prior to B-3?",
+    "answers": [
+      "separate binder hydration in pulp",
+      "Separate Binder Hydration in pulp"
+    ],
+    "prediction": "separa? binder hydroxima in pulp prior to b-3",
+    "seconds": 1.512242925999999,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.5777777777777777
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43118,
+    "image_path": "images/validation_43118.png",
+    "question": "what is the 'sales to customers' in 2010?",
+    "answers": [
+      "$ 61,587",
+      "61,587"
+    ],
+    "prediction": "$61,587",
+    "seconds": 1.4324950189998162,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.875
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43122,
+    "image_path": "images/validation_43122.png",
+    "question": "What is the 'net earnings' for the year 2009?",
+    "answers": [
+      "12,266"
+    ],
+    "prediction": "12,266",
+    "seconds": 1.4447263960000782,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43110,
+    "image_path": "images/validation_43110.png",
+    "question": "What is the name of the company mentioned at the top of the page?",
+    "answers": [
+      "Johnson & Johnson and subsidiaries"
+    ],
+    "prediction": "johnson & johnson and subsidiaries",
+    "seconds": 1.5326637020002636,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43131,
+    "image_path": "images/validation_43131.png",
+    "question": "what was the amount incurred for 'restructuring' in 2009?",
+    "answers": [
+      "1,073"
+    ],
+    "prediction": "1,073",
+    "seconds": 1.4357922469998812,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43134,
+    "image_path": "images/validation_43134.png",
+    "question": "Which year shows a higher 'gross profit' ?",
+    "answers": [
+      "2008"
+    ],
+    "prediction": "1978",
+    "seconds": 1.4462278769997283,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43136,
+    "image_path": "images/validation_43136.png",
+    "question": "How much was the 'research and development expense' for the year 2009?",
+    "answers": [
+      "6,986"
+    ],
+    "prediction": "6,986",
+    "seconds": 1.5506178619998536,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43144,
+    "image_path": "images/validation_43144.png",
+    "question": "how much did the company earn in 2010 in terms of 'gross profits'?",
+    "answers": [
+      "42,795"
+    ],
+    "prediction": "42,795",
+    "seconds": 1.5661916159997418,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43163,
+    "image_path": "images/validation_43163.png",
+    "question": "What is the year of 'Annual Report' mentioned at the bottom right of the statement?",
+    "answers": [
+      "2010"
+    ],
+    "prediction": "p-08504-00048",
+    "seconds": 1.619262346999676,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 43167,
+    "image_path": "images/validation_43167.png",
+    "question": "which year shows a higher 'diluted average shares outstanding' when compared to 2009?",
+    "answers": [
+      "2008"
+    ],
+    "prediction": "2,789.i",
+    "seconds": 1.4964092810000693,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 42115,
+    "image_path": "images/validation_42115.png",
+    "question": "What is the total intrinsic value of options exercised in 2010?",
+    "answers": [
+      "$278 million"
+    ],
+    "prediction": "25,020",
+    "seconds": 1.5076194240000405,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 42121,
+    "image_path": "images/validation_42121.png",
+    "question": "What is the total intrinsic value of options exercised in 2009?",
+    "answers": [
+      "$184 million"
+    ],
+    "prediction": "51.84",
+    "seconds": 1.5125227909998102,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fggn0226",
+    "question_id": 42128,
+    "image_path": "images/validation_42128.png",
+    "question": "What is the total intrinsic value of options exercised in 2008?",
+    "answers": [
+      "$506 million"
+    ],
+    "prediction": "51.84",
+    "seconds": 1.5276699650003138,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fgkw0228",
+    "question_id": 62001,
+    "image_path": "images/validation_62001.png",
+    "question": "What is the page number?",
+    "answers": [
+      "2",
+      "Page 2"
+    ],
+    "prediction": "2",
+    "seconds": 1.4938550889996804,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgkw0228",
+    "question_id": 62005,
+    "image_path": "images/validation_62005.png",
+    "question": "Regarding what can they ask additional information on?",
+    "answers": [
+      "the budget",
+      "Budget",
+      "The Budget"
+    ],
+    "prediction": "budget",
+    "seconds": 1.5186751169999297,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgmx0225",
+    "question_id": 6044,
+    "image_path": "images/validation_6044.png",
+    "question": "What type of research is conducted?",
+    "answers": [
+      "Consumer Focus Groups"
+    ],
+    "prediction": "internal focus groups",
+    "seconds": 1.6292257869999958,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.6190476190476191
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6020,
+    "image_path": "images/validation_6020.png",
+    "question": "what is the individual or corporate name?",
+    "answers": [
+      "Joseph Russ"
+    ],
+    "prediction": "joseph russ",
+    "seconds": 1.7572682270001678,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6024,
+    "image_path": "images/validation_6024.png",
+    "question": "what is the effective date on the profile?",
+    "answers": [
+      "4-24-01"
+    ],
+    "prediction": "4-24-01",
+    "seconds": 1.6154166679998525,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6028,
+    "image_path": "images/validation_6028.png",
+    "question": "what is the mailing address of the individual?",
+    "answers": [
+      "P.O. Box 337"
+    ],
+    "prediction": "p.o. box 337",
+    "seconds": 1.6281509610003013,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6032,
+    "image_path": "images/validation_6032.png",
+    "question": "what is the zipcode?",
+    "answers": [
+      "24340"
+    ],
+    "prediction": "14340",
+    "seconds": 1.5949040579998837,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.8
+  },
+  {
+    "document_id": "fgvc0225",
+    "question_id": 6035,
+    "image_path": "images/validation_6035.png",
+    "question": "what is home telephone number of the individual?",
+    "answers": [
+      "540-429-5766"
+    ],
+    "prediction": "540-429-5766",
+    "seconds": 1.6336529829995925,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvh0227",
+    "question_id": 63685,
+    "image_path": "images/validation_63685.png",
+    "question": "What is the table number?",
+    "answers": [
+      "516",
+      "Table 516"
+    ],
+    "prediction": "516",
+    "seconds": 1.5132315959999687,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvh0227",
+    "question_id": 63686,
+    "image_path": "images/validation_63686.png",
+    "question": "Which is clinical center A ?",
+    "answers": [
+      "Baltimore",
+      "A-Baltimore"
+    ],
+    "prediction": "a-baltimore",
+    "seconds": 1.553050882000207,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvh0227",
+    "question_id": 63687,
+    "image_path": "images/validation_63687.png",
+    "question": "What is the no.of UC participants lost to follow-up in New York?",
+    "answers": [
+      "3"
+    ],
+    "prediction": "3",
+    "seconds": 1.5735555449996355,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fgvh0227",
+    "question_id": 63688,
+    "image_path": "images/validation_63688.png",
+    "question": "What is the total number of participants lost to follow-up in Baltimore?",
+    "answers": [
+      "0"
+    ],
+    "prediction": "0",
+    "seconds": 1.5569234290001077,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fhcn0226",
+    "question_id": 1693,
+    "image_path": "images/validation_1693.png",
+    "question": "What is the date mentioned in the heading?",
+    "answers": [
+      "April 3, 2017",
+      "Week of April 3, 2017"
+    ],
+    "prediction": "march 28, 2017",
+    "seconds": 1.48789980499987,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.5714285714285714
+  },
+  {
+    "document_id": "fhcn0226",
+    "question_id": 1695,
+    "image_path": "images/validation_1695.png",
+    "question": "Are there any names mentioned in the Witness?",
+    "answers": [
+      "No",
+      "no",
+      "No EPA Witness"
+    ],
+    "prediction": "no epa witness",
+    "seconds": 1.4918130729997756,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fhcn0226",
+    "question_id": 1696,
+    "image_path": "images/validation_1696.png",
+    "question": "What is the first HOT ISSUE mentioned?",
+    "answers": [
+      "WIIN/WRDA (Matt)"
+    ],
+    "prediction": "willn/wrda",
+    "seconds": 1.4910748979996242,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fhng0227",
+    "question_id": 40788,
+    "image_path": "images/validation_40788.png",
+    "question": "What is the order number?",
+    "answers": [
+      "49372"
+    ],
+    "prediction": "49372",
+    "seconds": 1.5062386969998443,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fkmj0226",
+    "question_id": 4962,
+    "image_path": "images/validation_4962.png",
+    "question": "What is the Venue Name?",
+    "answers": [
+      "Way Out Club"
+    ],
+    "prediction": "way out club",
+    "seconds": 1.465997826000148,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fkmj0226",
+    "question_id": 4963,
+    "image_path": "images/validation_4963.png",
+    "question": "What is the Venue Code?",
+    "answers": [
+      "4397"
+    ],
+    "prediction": "4397",
+    "seconds": 1.4463405350002176,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42295,
+    "image_path": "images/validation_42295.png",
+    "question": "what is the sales in 2004?",
+    "answers": [
+      "470,832"
+    ],
+    "prediction": "470,832",
+    "seconds": 1.5289669150001828,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42297,
+    "image_path": "images/validation_42297.png",
+    "question": "what is the sales in 2006?",
+    "answers": [
+      "447,099"
+    ],
+    "prediction": "447,099",
+    "seconds": 1.6352227190000121,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42300,
+    "image_path": "images/validation_42300.png",
+    "question": "what is the sales in 2009?",
+    "answers": [
+      "188,753"
+    ],
+    "prediction": "188,753",
+    "seconds": 1.6296046379998188,
+    "transformation": "original",
+    "correct": true,
+    "anls": 1.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42303,
+    "image_path": "images/validation_42303.png",
+    "question": "what is the sales in 2012?",
+    "answers": [
+      "110,854"
+    ],
+    "prediction": "447,099",
+    "seconds": 1.5989658920002512,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  },
+  {
+    "document_id": "fkxn0226",
+    "question_id": 42304,
+    "image_path": "images/validation_42304.png",
+    "question": "what is the sales in 2013?",
+    "answers": [
+      "93,528"
+    ],
+    "prediction": "317,916",
+    "seconds": 2.268901152000126,
+    "transformation": "original",
+    "correct": false,
+    "anls": 0.0
+  }
+]

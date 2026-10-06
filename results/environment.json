@@ -1,0 +1,6 @@
+{
+  "transformers": "5.18.0",
+  "torch": "2.11.0+cu130",
+  "huggingface_hub": "1.33.0",
+  "gpu": "Tesla T4"
+}

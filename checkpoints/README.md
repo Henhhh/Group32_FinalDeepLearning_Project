@@ -1,0 +1,1 @@
+Copy the complete `donut_decoder_finetuned_clean` folder from Drive into this directory. For retraining, extract the initial `DonutDocVQA.rar` model to `DonutDocVQA/` here. RAR files must be extracted before use. See `DATA.md` for download links.

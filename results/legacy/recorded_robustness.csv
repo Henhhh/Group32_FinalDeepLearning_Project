@@ -1,0 +1,5 @@
+﻿method,condition,questions,correct,em_percent,anls,seconds
+OCR + QA,original,57,14,24.5614,0.2904,3.2273
+OCR + QA,downsample50,57,16,28.0702,0.332,3.1795
+Donut after FT,original,57,40,70.1754,0.7609,1.5398
+Donut after FT,downsample50,57,39,68.4211,0.7415,1.547
